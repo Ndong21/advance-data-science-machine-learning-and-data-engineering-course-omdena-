@@ -1,0 +1,1230 @@
+SN,Location,School types,Class ,Age,Sex,Household size,Education level,Overweight in family,Mean to go to school ,Weight(kg),Height(cm),Abdominal sie,Systolic BP,BMI,Overweight
+6,Semi urban,Day school,3,13,Female,1,Secondary,No,On foot,43,157,75,118,17.4,No
+7,Semi urban,Day school,3,14,Female,2,University,No,On foot,46,159,76,111,18.2,No
+22,Semi urban,Day school,1,10,Female,2,University,No,On foot,33,132,63,94,19.2,YES
+24,Semi urban,Day school,4,19,Female,2,Primary,No,On foot,65,168,80,126,23.1,No
+32,Semi urban,Day school,3,12,Female,2,University,No,On foot,31,151,70,87,13.8,No
+38,Semi urban,Day school,3,12,Female,2,Secondary,No,On foot,46,155,68,123,19.3,No
+43,Semi urban,Day school,3,13,Female,3,University,No,On foot,50,156,73,94,20.4,No
+50,Semi urban,Day school,1,11,Female,2,University,No,On foot,42,151,65,99,18.3,No
+63,Rural,Bording,5,17,Female,3,University,No,On foot,45,162,68,128,17.1,No
+64,Rural,Bording,2,12,Female,2,Secondary,No,By bike,41,146,70,108,19.3,No
+65,Rural,Bording,2,12,Female,2,Secondary,No,On foot,34,142,68,100,16.9,No
+90,Rural,Bording,4,16,Female,2,University,No,By car,59,153,76,105,25.3,YES
+107,Rural,Bording,2,13,Female,2,Secondary,No,On foot,50,162,69,106,19.1,No
+127,Rural,Bording,4,14,Female,4,University,No,By car,59,153,78,119,25.4,YES
+137,Rural,Day school,4,17,Female,2,University,No,By bus,55,164,66,103,20.4,No
+142,Rural,Day school,1,13,Female,3,University,No,By car,37,141,60,91,18.4,No
+146,Rural,Day school,4,15,Female,4,Secondary,No,By bus,62,162,70,105,23.6,YES
+154,Rural,Day school,2,12,Female,3,Secondary,No,By bus,36,145,62,100,17.1,No
+155,Rural,Day school,2,14,Female,3,Primary,No,By bus,57,160,74,109,22.1,No
+161,Rural,Day school,2,12,Female,1,University,No,By bus,59,167,70,105,21.2,YES
+162,Rural,Day school,2,12,Female,4,University,No,By car,47,155,68,110,19.4,No
+164,Rural,Day school,2,14,Female,2,Secondary,No,By car,48,156,65,100,19.5,No
+166,Rural,Day school,2,12,Female,3,Primary,No,On foot,48,151,65,84,21.1,YES
+167,Rural,Day school,2,13,Female,2,Secondary,No,By bus,55,155,72,94,22.9,YES
+184,Rural,Day school,3,17,Female,2,University,No,By car,53,163,65,115,19.8,No
+191,Rural,Day school,1,12,Female,2,Secondary,No,On foot,34,141,62,98,17.1,No
+197,Semi urban,Bording school,4,13,Female,3,Primary,No,By car,40,158,59,112,16,No
+200,Semi urban,Bording school,7,18,Female,2,University,No,On foot,43,150,62,105,19,No
+201,Semi urban,Bording school,7,18,Female,2,Secondary,No,On foot,49,157,71,115,19.7,No
+202,Semi urban,Bording school,7,18,Female,2,University,No,On foot,62,162,78,132,23.6,No
+204,Semi urban,Bording school,3,12,Female,2,University,No,On foot,32,156,67,114,12.9,No
+205,Semi urban,Bording school,7,17,Female,2,Secondary,No,On foot,53,164,74,121,19.6,No
+206,Semi urban,Bording school,4,14,Female,3,University,No,On foot,60,165,76,103,22.1,No
+207,Semi urban,Bording school,7,18,Female,2,University,No,On foot,58,162,76,144,22,No
+208,Semi urban,Bording school,4,15,Female,2,University,No,By car,55,166,72,107,19.9,No
+209,Semi urban,Bording school,4,15,Female,2,University,No,By bike,62,161,81,117,24,YES
+212,Semi urban,Bording school,5,16,Female,3,University,No,On foot,58,158,77,114,23.4,No
+222,Semi urban,Bording school,4,15,Female,2,University,No,On foot,48,161,68,113,18.5,No
+223,Semi urban,Bording school,3,13,Female,3,University,No,On foot,42,153,67,107,18.1,No
+224,Semi urban,Bording school,4,14,Female,3,University,No,On foot,45,164,69,101,16.7,No
+225,Semi urban,Bording school,4,15,Female,2,University,No,By car,47,155,65,134,19.5,No
+226,Semi urban,Bording school,7,19,Female,2,University,No,By car,85,152,71,112,36.9,YES
+227,Semi urban,Bording school,4,14,Female,2,Secondary,No,On foot,67,152,87,115,29,YES
+230,Semi urban,Bording school,4,14,Female,3,University,No,By bus,47,147,72,107,21.6,No
+231,Semi urban,Bording school,3,13,Female,2,University,No,By car,37,148,61,104,16.8,No
+232,Semi urban,Bording school,4,17,Female,2,University,No,On foot,46,153,68,116,19.8,No
+235,Semi urban,Bording school,4,13,Female,4,University,No,On foot,45,162,65,109,17.1,No
+237,Semi urban,Bording school,3,13,Female,3,Secondary,No,On foot,50,158,67,110,20,No
+241,Semi urban,Bording school,3,13,Female,3,University,No,By car,47,149,68,111,21.3,No
+244,Semi urban,Bording school,5,16,Female,3,Secondary,No,On foot,46,162,72,119,17.5,No
+245,Semi urban,Bording school,5,17,Female,2,University,No,On foot,41,156,66,109,17,No
+247,Semi urban,Bording school,3,12,Female,4,University,No,On foot,40,153,69,96,17.3,No
+251,Semi urban,Day school,4,11,Female,2,University,No,On foot,48,156,71,130,19.7,No
+258,Semi urban,Day school,4,14,Female,2,University,No,By car,47,156,75,102,19.2,No
+260,Semi urban,Day school,4,17,Female,4,Primary,No,By car,47,150,68,126,20.8,No
+263,Semi urban,Day school,4,14,Female,4,University,No,By car,50,166,71,115,18.3,No
+267,Semi urban,Day school,4,15,Female,3,Secondary,No,By car,67,156,82,128,27.6,YES
+269,Semi urban,Day school,4,16,Female,3,Primary,No,By car,51,159,71,122,20.1,No
+275,Semi urban,Day school,2,13,Female,2,University,No,By car,52,155,67,126,21.6,No
+281,Semi urban,Day school,1,13,Female,3,University,No,On foot,53,148,73,99,24.2,YES
+284,Semi urban,Day school,3,14,Female,2,Secondary,No,On foot,66,174,77,88,21.6,No
+285,Semi urban,Day school,4,17,Female,1,Secondary,No,By bus,52,168,80,125,18.3,No
+287,Semi urban,Day school,3,14,Female,1,Secondary,No,On foot,52,155,71,97,21.8,No
+288,Semi urban,Day school,4,18,Female,2,Primary,No,On foot,63,167,79,104,22.7,No
+291,Semi urban,Day school,3,12,Female,2,Secondary,No,By car,54,154,70,97,22.9,YES
+292,Semi urban,Day school,3,12,Female,3,University,No,On foot,58,155,80,104,24.1,YES
+296,Semi urban,Day school,1,13,Female,4,University,No,On foot,62,154,78,121,26.2,YES
+311,Rural,Day school,2,13,Female,1,University,No,On foot,37,145,91,113,17.5,No
+323,Rural,Day school,4,12,Female,1,Secondary,No,On foot,61,162,80,106,23.1,YES
+325,Rural,Day school,2,12,Female,3,University,No,On foot,43,148,88,107,19.4,No
+342,Rural,Day school,4,15,Female,2,Primary,No,On foot,50,151,68,106,22.1,No
+355,Rural,Day school,1,13,Female,3,Secondary,No,On foot,50,144,73,107,23.9,YES
+367,Semi urban,Day school,4,14,Female,3,Never,No,On foot,56,155,765,146,23.4,YES
+368,Semi urban,Day school,4,13,Female,1,Secondary,No,On foot,46,161,66,122,17.6,No
+369,Semi urban,Day school,4,15,Female,3,Secondary,No,On foot,47,153,70,112,20.2,No
+371,Semi urban,Day school,4,14,Female,2,Primary,No,On foot,50,146,72,124,23.5,YES
+376,Semi urban,Day school,4,16,Female,4,University,No,On foot,60,164,70,130,22.2,No
+378,Semi urban,Day school,4,14,Female,1,Secondary,No,On foot,45,54,63,113,154.7,No
+379,Semi urban,Day school,4,15,Female,1,University,No,On foot,54,161,67,111,20.7,No
+382,Semi urban,Day school,6,18,Female,1,Primary,No,On foot,55,162,655,119,21.1,No
+383,Semi urban,Day school,4,15,Female,2,Primary,No,On foot,43,154,656,149,18,No
+384,Semi urban,Day school,4,15,Female,2,Secondary,No,On foot,45,166,613,124,16.4,No
+385,Semi urban,Day school,4,14,Female,2,Secondary,No,On foot,46,160,62,133,17.8,No
+386,Semi urban,Day school,4,14,Female,2,Secondary,No,On foot,46,154,67,120,19.5,No
+388,Semi urban,Day school,4,12,Female,2,University,No,On foot,52,159,67,125,20.6,No
+389,Semi urban,Day school,4,14,Female,2,Secondary,No,On foot,60,169,76,122,21.1,No
+394,Semi urban,Day school,4,17,Female,2,Secondary,No,On foot,58,155,75,111,24.3,No
+395,Semi urban,Day school,4,14,Female,3,University,No,On foot,50,154,70,109,21.1,No
+399,Semi urban,Day school,6,17,Female,3,Secondary,No,On foot,65,170,75,119,22.5,No
+400,Semi urban,Day school,4,15,Female,3,University,No,On foot,56,108,71,114,47.8,YES
+401,Semi urban,Day school,4,18,Female,2,University,No,On foot,58,144,80,132,27.9,YES
+403,Semi urban,Day school,4,16,Female,1,Secondary,No,On foot,62,164,71,94,23.1,No
+404,Semi urban,Day school,4,14,Female,2,University,No,On foot,62,172,77,124,21,No
+406,Semi urban,Day school,4,14,Female,2,Primary,No,On foot,60,160,75,129,23.4,YES
+416,Semi urban,Day school,5,15,Female,3,University,No,On foot,56,161,71,138,21.5,No
+417,Semi urban,Day school,4,19,Female,3,Never,No,On foot,54,168,69,135,19.1,No
+419,Semi urban,Day school,4,19,Female,2,Never,No,On foot,69,166,77,111,25.1,YES
+423,Semi urban,Day school,3,14,Female,3,University,No,By car,51,163,69,109,19.2,No
+427,Semi urban,Day school,3,14,Female,3,University,No,On foot,52,169,69,117,18.2,No
+428,Semi urban,Day school,4,14,Female,2,Secondary,No,On foot,46,150,68,134,20.3,No
+434,Rural,Bording school,3,13,Female,2,Secondary,No,On foot,44,146,63,124,20.5,No
+436,Rural,Bording school,4,15,Female,2,Secondary,No,By bus,54,158,78,122,21.6,No
+437,Rural,Bording school,3,11,Female,2,Primary,No,On foot,67,162,75,118,25.5,YES
+439,Rural,Bording school,3,13,Female,1,University,No,By car,51,156,69,104,20.8,No
+443,Rural,Bording school,3,13,Female,3,University,No,By car,51,156,76,111,21,No
+446,Rural,Bording school,3,13,Female,3,University,No,By car,67,166,80,83,24.4,YES
+447,Rural,Bording school,3,12,Female,2,Secondary,No,On foot,36,154,66,94,15.2,No
+448,Rural,Bording school,4,13,Female,3,University,No,On foot,40,157,66,108,16.3,No
+449,Rural,Bording school,4,14,Female,3,University,No,On foot,52,157,76,129,21.2,No
+451,Rural,Bording school,4,13,Female,3,University,No,On foot,58,164,81,115,21.6,No
+453,Rural,Bording school,4,13,Female,2,Secondary,No,On foot,59,158,74,105,23.8,YES
+455,Rural,Bording school,4,14,Female,3,University,No,On foot,56,159,77,136,22.2,No
+457,Rural,Bording school,3,14,Female,3,University,No,On foot,56,156,73,97,23.2,YES
+458,Rural,Bording school,2,14,Female,1,University,No,On foot,66,165,79,104,24.2,YES
+459,Rural,Bording school,3,14,Female,3,Secondary,No,On foot,61,160,77,111,24,YES
+464,Rural,Bording school,4,13,Female,4,University,No,On foot,50,164,71,97,18.6,No
+465,Rural,Bording school,3,11,Female,1,University,No,By car,42,150,68,107,18.5,No
+466,Rural,Bording school,3,13,Female,2,University,No,By car,48,159,71,112,19,No
+467,Rural,Bording school,4,14,Female,2,University,No,On foot,50,149,71,106,22.6,YES
+476,Rural,Bording school,3,13,Female,2,Secondary,No,On foot,47,152,76,101,20.3,No
+477,Rural,Bording school,4,15,Female,3,University,No,On foot,67,170,76,124,23.3,No
+478,Rural,Bording school,3,14,Female,4,Secondary,No,On foot,56,157,80,119,22.9,YES
+480,Rural,Bording school,3,13,Female,3,University,No,On foot,76,158,99,117,30.6,YES
+481,Rural,Bording school,3,11,Female,2,University,No,On foot,33,140,59,93,16.6,No
+482,Rural,Bording school,3,13,Female,2,University,No,On foot,42,154,65,111,17.8,No
+483,Rural,Bording school,4,14,Female,3,University,No,On foot,53,165,67,121,19.6,No
+484,Rural,Bording school,4,15,Female,2,University,No,On foot,57,167,78,124,20.3,No
+486,Rural,Bording school,3,14,Female,3,University,No,On foot,58,158,75,114,23.2,YES
+487,Rural,Bording school,2,13,Female,3,University,No,By car,47,159,68,124,18.4,No
+490,Rural,Bording school,3,13,Female,3,University,No,On foot,77,157,87,118,31.1,YES
+491,Rural,Bording school,4,14,Female,1,Secondary,No,On foot,77,165,85,112,28.4,YES
+492,Rural,Bording school,4,15,Female,2,University,No,On foot,55,161,73,110,21.2,No
+494,Rural,Bording school,4,15,Female,3,University,No,On foot,65,155,83,99,27.1,YES
+496,Rural,Bording school,3,13,Female,2,University,No,On foot,39,154,70,125,16.3,No
+497,Rural,Bording school,4,15,Female,3,University,No,On foot,56,163,76,122,20.9,No
+500,Rural,Bording school,6,16,Female,3,University,No,On foot,60,166,72,116,21.9,No
+503,Rural,Bording school,4,16,Female,2,University,No,By car,68,164,79,126,25.2,YES
+505,Rural,Bording school,6,17,Female,2,University,No,By car,60,160,74,114,23.4,No
+507,Rural,Bording school,6,16,Female,2,University,No,On foot,52,157,70,102,21.2,No
+508,Rural,Bording school,3,13,Female,3,Secondary,No,On foot,52,159,68,105,20.7,No
+509,Rural,Bording school,6,15,Female,2,University,No,By car,55,157,73,109,22.4,No
+511,Rural,Bording school,3,13,Female,2,University,No,On foot,55,156,74,175,22.4,YES
+514,Rural,Bording school,6,16,Female,2,Secondary,No,On foot,58,757,73,88,1,No
+515,Rural,Bording school,6,16,Female,2,University,No,By car,55,164,65,104,20.5,No
+516,Rural,Bording school,3,13,Female,3,University,No,On foot,69,157,78,105,28,YES
+528,Rural,Day school,2,13,Female,1,Secondary,No,By bike,40,148,67,119,18.4,No
+529,Rural,Day school,2,13,Female,2,Secondary,No,By bike,52,158,72,116,20.7,No
+532,Rural,Day school,2,13,Female,2,University,No,On foot,49,152,69,121,21.2,No
+538,Rural,Day school,3,15,Female,3,Secondary,No,On foot,44,150,67,109,19.7,No
+545,Rural,Day school,2,13,Female,3,University,No,By car,50,153,68,137,21.4,No
+547,Rural,Day school,3,14,Female,3,University,No,By car,55,154,69,113,23.3,YES
+549,Rural,Day school,3,15,Female,3,Secondary,No,By bike,57,165,77,100,20.8,No
+551,Rural,Day school,2,13,Female,3,University,No,On foot,56,160,80,113,22,YES
+553,Rural,Day school,2,12,Female,4,University,No,On foot,34,149,65,119,15.1,No
+577,Rural,Day school,4,16,Female,3,Secondary,No,By car,56,151,74,109,24.5,YES
+578,Rural,Day school,4,16,Female,2,University,No,By bus,66,164,77,111,24.4,YES
+581,Rural,Day school,4,14,Female,3,Secondary,No,On foot,51,156,87,112,20.9,No
+583,Rural,Day school,2,12,Female,3,University,No,By bike,45,154,68,119,19,No
+584,Rural,Day school,3,12,Female,3,Secondary,No,On foot,49,161,75,93,18.7,No
+585,Rural,Day school,3,14,Female,2,Secondary,No,On foot,50,154,72,128,21.2,No
+586,Rural,Day school,2,12,Female,4,University,No,By bus,45,150,66,90,20,No
+590,Semi urban,Day school,4,14,Female,2,Secondary,No,By car,54,152,82,114,23.3,YES
+594,Semi urban,Day school,4,15,Female,2,Primary,No,On foot,50,163,66,85,18.8,No
+604,Semi urban,Day school,4,13,Female,3,University,No,By car,48,153,66,94,20.6,No
+613,Semi urban,Day school,4,14,Female,1,University,No,On foot,66,162,85,120,25.2,YES
+614,Semi urban,Day school,4,14,Female,3,University,No,By car,84,163,94,136,31.7,YES
+620,Semi urban,Day school,4,14,Female,2,Primary,No,By car,51,160,70,109,20.1,No
+621,Semi urban,Day school,4,14,Female,2,Secondary,No,On foot,55,154,77,121,23,YES
+624,Semi urban,Day school,4,14,Female,3,University,No,By car,67,162,79,114,25.5,YES
+627,Semi urban,Day school,4,14,Female,1,University,No,By car,37,146,63,98,17.3,No
+630,Semi urban,Day school,4,13,Female,2,Secondary,No,On foot,55,160,79,109,21.5,No
+635,Semi urban,Day school,4,15,Female,2,Secondary,No,On foot,53,171,73,143,18.3,No
+639,Semi urban,Day school,4,15,Female,2,Primary,No,On foot,54,154,78,97,22.7,No
+640,Semi urban,Day school,4,14,Female,3,Primary,No,On foot,48,150,74,106,21.5,No
+641,Semi urban,Day school,4,14,Female,3,Secondary,No,On foot,64,159,78,137,25.4,YES
+642,Semi urban,Day school,4,14,Female,2,Secondary,No,On foot,54,169,78,141,18.9,No
+645,Semi urban,Day school,4,13,Female,3,University,No,By car,50,155,72,140,20.9,No
+646,Semi urban,Day school,4,13,Female,2,Primary,No,On foot,39,159,66,127,15.5,No
+647,Semi urban,Day school,4,15,Female,3,Secondary,No,By car,60,165,75,130,21.9,No
+649,Semi urban,Day school,4,17,Female,4,University,No,By car,58,160,75,88,22.6,No
+652,Semi urban,Day school,4,14,Female,2,Secondary,No,On foot,55,166,71,108,20.1,No
+654,Semi urban,Day school,4,14,Female,2,University,No,On foot,59,160,79,112,23,YES
+656,Semi urban,Day school,4,15,Female,4,Primary,No,On foot,47,156,69,107,19.3,No
+660,Semi urban,Day school,4,14,Female,2,Secondary,No,By car,69,167,74,126,24.6,YES
+664,Semi urban,Day school,4,15,Female,2,Secondary,No,On foot,66,167,86,108,23.8,YES
+668,Semi urban,Day school,4,15,Female,2,University,No,By car,65,151,90,111,28.4,YES
+671,Semi urban,Day school,4,15,Female,3,University,No,By car,61,159,81,115,24.2,YES
+675,Semi urban,Day school,4,14,Female,3,Primary,No,On foot,63,161,77,114,24.4,YES
+677,Semi urban,Day school,4,14,Female,3,University,No,On foot,54,151,81,109,23.8,YES
+678,Semi urban,Day school,6,17,Female,3,University,No,By car,70,167,87,120,25.1,YES
+681,Semi urban,Day school,6,17,Female,3,Secondary,No,By car,50,154,69,101,20.9,No
+682,Semi urban,Day school,6,17,Female,2,Secondary,No,By car,48,150,69,113,21.1,No
+683,Semi urban,Day school,6,16,Female,2,Secondary,No,By car,55,146,73,137,25.8,YES
+684,Semi urban,Day school,6,18,Female,3,University,No,By car,72,151,81,126,31.6,YES
+689,Semi urban,Day school,6,16,Female,2,University,No,By bike,64,160,74,111,25,YES
+690,Semi urban,Day school,6,16,Female,2,University,No,By bike,58,162,70,119,22.1,No
+693,Semi urban,Day school,6,17,Female,2,University,No,By car,77,154,89,119,32.3,YES
+696,Semi urban,Day school,6,17,Female,3,University,No,By car,70,166,80,115,25.4,YES
+699,Semi urban,Day school,6,17,Female,3,University,No,By car,55,156,77,143,22.6,No
+700,Semi urban,Day school,6,15,Female,1,University,No,By car,46,57,69,111,141.6,YES
+702,Semi urban,Day school,6,18,Female,2,Secondary,No,By bus,59,163,69,106,22,No
+714,Semi urban,Day school,4,14,Female,2,University,No,On foot,50,155,73,94,20.8,No
+716,Semi urban,Day school,4,15,Female,3,Secondary,No,By car,61,166,75,103,22.1,No
+733,Semi urban,Day school,4,14,Female,3,University,No,By car,78,165,86,123,28.7,YES
+750,Semi urban,Day school,4,14,Female,2,Secondary,No,By car,44,159,65,100,17.4,No
+751,Semi urban,Day school,4,15,Female,3,Primary,No,On foot,63,168,73,125,22.3,No
+758,Semi urban,Day school,4,15,Female,2,University,No,By car,54,157,70,84,21.9,No
+770,Semi urban,Bording school,2,12,Female,2,University,No,On foot,50,158,68,117,20,No
+771,Semi urban,Bording school,2,12,Female,2,Secondary,No,On foot,48,156,63,117,19.5,No
+777,Semi urban,Bording school,2,12,Female,2,University,No,On foot,59,167,71,88,21,YES
+785,Semi urban,Bording school,7,19,Female,2,Secondary,No,On foot,73,160,79,105,28.5,YES
+790,Semi urban,Bording school,6,16,Female,2,Primary,No,On foot,55,162,67,117,20.8,No
+792,Semi urban,Bording school,3,14,Female,1,Secondary,No,On foot,58,158,71,113,23,YES
+795,Semi urban,Bording school,3,14,Female,3,University,No,On foot,45,152,62,93,19.3,No
+796,Semi urban,Bording school,3,13,Female,1,University,No,On foot,53,167,69,122,19,No
+798,Semi urban,Bording school,4,16,Female,3,University,No,On foot,91,164,88,122,33.8,YES
+799,Semi urban,Bording school,1,11,Female,3,University,No,On foot,41,149,65,90,18.5,No
+801,Semi urban,Bording school,4,16,Female,2,Secondary,No,On foot,58,171,65,105,19.8,No
+802,Semi urban,Bording school,3,13,Female,2,University,No,On foot,45,157,62,111,18.3,No
+804,Semi urban,Bording school,5,16,Female,3,University,No,On foot,56,163,72,89,21.1,No
+805,Semi urban,Bording school,7,19,Female,4,Primary,No,On foot,55,153,72,114,23.3,No
+806,Semi urban,Bording school,7,17,Female,2,University,No,On foot,53,159,69,108,20.8,No
+808,Semi urban,Bording school,7,17,Female,2,University,No,On foot,64,168,68,113,22.7,No
+809,Semi urban,Bording school,7,17,Female,3,University,No,On foot,54,167,68,93,19.4,No
+811,Semi urban,Bording school,7,17,Female,2,University,No,On foot,53,171,68,118,18,No
+813,Semi urban,Bording school,4,14,Female,1,Secondary,No,By bike,43,149,66,100,19.4,No
+815,Semi urban,Bording school,7,18,Female,3,Secondary,No,On foot,66,154,77,107,27.8,YES
+816,Semi urban,Bording school,5,16,Female,1,Secondary,No,On foot,55,158,71,107,22,No
+817,Semi urban,Bording school,4,14,Female,2,Secondary,No,On foot,54,161,71,121,20.8,No
+818,Semi urban,Bording school,1,12,Female,2,University,No,On foot,36,148,60,86,16.4,No
+820,Semi urban,Bording school,4,14,Female,4,University,No,On foot,59,154,73,120,24.9,YES
+822,Semi urban,Bording school,4,15,Female,4,University,No,On foot,64,157,78,120,26,YES
+825,Semi urban,Bording school,5,14,Female,3,University,No,On foot,52,150,71,89,23.1,YES
+833,Semi urban,Day school,3,15,Female,4,Secondary,No,On foot,4,158,67,105,1.4,YES
+835,Semi urban,Day school,4,15,Female,3,Primary,No,On foot,47,152,68,117,20.3,No
+836,Rural,Bording school,4,13,Female,2,Secondary,No,On foot,45,153,58,94,19.2,No
+837,Semi urban,Day school,4,14,Female,2,Primary,No,On foot,40,151,61,113,17.7,No
+838,Rural,Bording school,7,16,Female,2,University,No,On foot,59,161,9,111,22.6,No
+844,Rural,Bording school,7,18,Female,2,University,No,On foot,72,161,82,127,27.8,YES
+845,Rural,Bording school,7,17,Female,1,University,No,On foot,56,157,67,100,22.5,No
+849,Semi urban,Day school,6,15,Female,2,Secondary,No,On foot,52,162,72,107,19.7,No
+858,Semi urban,Day school,4,16,Female,2,Secondary,No,By car,65,164,82,122,24.1,YES
+860,Rural,Bording school,7,17,Female,3,Secondary,No,On foot,69,166,79,127,25,YES
+865,Rural,Bording school,5,15,Female,1,University,No,On foot,54,151,66,106,23.7,YES
+867,Rural,Bording school,6,18,Female,2,University,No,By car,68,155,77,112,28.1,YES
+873,Rural,Bording school,4,15,Female,1,Secondary,No,On foot,62,168,77,116,22,No
+875,Rural,Bording school,2,12,Female,2,Primary,No,On foot,39,145,63,96,18.5,No
+876,Rural,Bording school,5,18,Female,3,Secondary,No,On foot,59,157,75,90,23.9,No
+877,Semi urban,Day school,4,15,Female,3,Primary,No,On foot,46,155,73,151,19.1,No
+878,Semi urban,Day school,4,14,Female,3,Secondary,No,On foot,44,158,65,120,17.7,No
+879,Semi urban,Day school,3,14,Female,3,Secondary,No,On foot,44,154,68,111,18.4,No
+882,Rural,Bording school,7,18,Female,4,University,No,On foot,49,156,67,99,20.1,No
+884,Rural,Bording school,7,17,Female,1,University,No,On foot,46,154,65,109,19.2,No
+885,Rural,Bording school,5,18,Female,2,University,No,On foot,63,170,70,111,21.8,No
+887,Semi urban,Day school,4,14,Female,3,Secondary,No,By car,51,157,69,121,20.6,No
+890,Semi urban,Day school,6,15,Female,2,Secondary,No,On foot,58,166,75,110,21.1,No
+893,Rural,Bording school,2,13,Female,3,University,No,On foot,46,149,66,90,20.7,No
+897,Semi urban,Day school,3,15,Female,2,University,No,On foot,49,151,71,109,21.5,No
+899,Rural,Bording school,7,18,Female,2,University,No,On foot,77,165,82,123,28.3,YES
+901,Rural,Bording school,7,17,Female,2,University,No,On foot,65,168,72,106,22.9,No
+903,Semi urban,Day school,4,15,Female,2,University,No,On foot,54,161,71,120,20.9,No
+905,Semi urban,Day school,4,15,Female,4,Secondary,No,On foot,69,166,79,119,24.9,YES
+909,Semi urban,Day school,4,15,Female,3,Primary,No,On foot,56,157,72,113,22.6,No
+910,Semi urban,Day school,6,16,Female,3,Secondary,No,By car,65,164,76,155,24,No
+914,Semi urban,Day school,6,18,Female,2,Secondary,No,By car,63,166,75,120,23,No
+915,Semi urban,Day school,4,16,Female,2,University,No,On foot,49,156,67,134,19.9,No
+916,Rural,Bording school,7,18,Female,3,Secondary,No,On foot,77,171,78,107,26.3,YES
+918,Rural,Bording school,7,17,Female,3,University,No,On foot,57,151,73,106,25,YES
+919,Rural,Bording school,5,18,Female,4,Primary,No,On foot,56,156,66,96,23,No
+920,Rural,Bording school,6,12,Female,1,Secondary,No,On foot,90,158,95,110,36.1,YES
+923,Rural,Bording school,4,15,Female,4,Secondary,No,On foot,57,153,74,92,24.3,YES
+927,Semi urban,Day school,6,14,Female,2,Secondary,No,By car,56,163,72,133,21.1,No
+932,Rural,Bording school,7,17,Female,1,University,No,On foot,52,163,64,111,19.4,No
+933,Semi urban,Day school,4,14,Female,3,University,No,On foot,60,172,70,142,20.3,No
+934,Semi urban,Day school,4,14,Female,1,University,No,On foot,53,151,75,113,23.3,YES
+937,Semi urban,Day school,4,15,Female,3,Primary,No,By bike,55,157,73,136,22.4,No
+939,Semi urban,Day school,6,16,Female,2,University,No,By car,52,161,72,104,20,No
+941,Semi urban,Day school,4,16,Female,1,University,No,By car,8,170,71,118,2.7,YES
+942,Semi urban,Day school,6,18,Female,2,University,No,By car,59,162,76,98,22.6,No
+944,Semi urban,Day school,6,17,Female,3,Primary,No,By car,65,157,78,107,26.3,YES
+947,Rural,Bording school,7,19,Female,1,University,No,On foot,90,156,96,124,36.8,YES
+949,Rural,Bording school,7,17,Female,4,University,No,By bike,83,154,100,120,35,YES
+950,Rural,Bording school,7,18,Female,3,Secondary,No,By bus,75,160,83,122,29.1,YES
+952,Semi urban,Day school,6,15,Female,3,University,No,By car,39,163,63,113,14.8,No
+954,Rural,Bording school,7,17,Female,2,Secondary,No,On foot,66,173,73,107,21.9,No
+961,Rural,Bording school,7,18,Female,2,Primary,No,On foot,55,164,66,110,20.4,No
+963,Rural,Bording school,7,16,Female,4,University,No,By car,67,158,78,101,26.6,YES
+964,Semi urban,Day school,4,14,Female,3,University,No,On foot,55,163,67,102,20.7,No
+965,Rural,Bording school,5,14,Female,4,University,No,On foot,58,164,76,106,21.6,No
+968,Rural,Bording school,4,17,Female,3,Primary,No,On foot,60,158,81,90,24,No
+970,Rural,Bording school,2,12,Female,2,University,No,On foot,50,155,72,104,20.8,YES
+979,Rural,Bording school,7,18,Female,2,University,No,On foot,52,159,71,106,20.4,No
+980,Rural,Bording school,2,12,Female,2,University,No,On foot,47,155,65,93,19.6,No
+982,Rural,Bording school,7,18,Female,1,University,No,On foot,56,168,73,84,19.8,No
+986,Semi urban,Day school,4,16,Female,1,Secondary,No,On foot,57,153,76,124,24.4,YES
+988,Semi urban,Day school,4,15,Female,2,University,No,By car,58,166,77,122,21,No
+990,Rural,Bording school,6,16,Female,2,University,No,On foot,44,169,67,98,15.2,YES
+991,Semi urban,Day school,6,16,Female,3,Secondary,No,By car,51,147,71,111,23.4,No
+993,Semi urban,Day school,4,14,Female,2,Primary,No,On foot,39,151,64,104,17.1,No
+996,Rural,Bording school,4,15,Female,2,University,No,On foot,58,170,70,89,20.1,No
+1001,Semi urban,Day school,4,15,Female,2,Secondary,No,On foot,46,165,66,116,16.7,No
+1002,Semi urban,Day school,4,14,Female,2,University,No,On foot,55,159,77,140,21.6,No
+1004,Semi urban,Day school,6,16,Female,2,University,No,By car,63,164,82,140,23.6,No
+1005,Rural,Bording school,5,17,Female,1,Secondary,No,On foot,63,157,79,104,25.6,YES
+1006,Rural,Bording school,6,16,Female,1,Secondary,No,On foot,77,164,86,118,28.6,YES
+1009,Semi urban,Day school,6,17,Female,3,Secondary,No,By car,50,154,69,101,20.9,No
+1010,Semi urban,Day school,6,17,Female,2,Secondary,No,By car,48,150,69,113,21.1,No
+1011,Semi urban,Day school,6,16,Female,2,Secondary,No,By car,55,146,73,137,25.8,YES
+1012,Semi urban,Day school,6,18,Female,3,University,No,By car,72,151,81,126,31.6,YES
+1017,Semi urban,Day school,6,16,Female,2,University,No,By bike,64,160,74,111,25,YES
+1018,Semi urban,Day school,6,16,Female,2,University,No,By bike,58,162,70,119,22.1,No
+1021,Semi urban,Day school,6,17,Female,2,University,No,By car,77,154,89,119,32.3,YES
+1024,Semi urban,Day school,6,17,Female,3,University,No,By car,70,166,80,115,25.4,YES
+1027,Semi urban,Day school,6,17,Female,3,University,No,By car,55,156,77,143,22.6,No
+1028,Semi urban,Day school,6,15,Female,1,University,No,By car,46,57,69,111,141.6,YES
+1030,Semi urban,Day school,4,14,Female,2,Secondary,No,By car,50,160,66,117,19.3,No
+1032,Semi urban,Day school,5,19,Female,1,University,No,On foot,55,155,75,108,22.9,No
+1034,Semi urban,Day school,4,16,Female,3,Secondary,No,By car,52,156,69,99,21.4,No
+1035,Semi urban,Day school,5,17,Female,3,Secondary,No,By car,53,165,61,96,19.5,No
+1036,Semi urban,Day school,6,16,Female,1,University,No,On foot,63,160,78,113,24.6,YES
+1037,Semi urban,Day school,4,14,Female,2,University,No,By car,46,159,628,101,18.2,No
+1054,Semi urban,Day school,5,17,Female,4,University,No,By car,51,166,63,100,18.5,No
+1055,Semi urban,Day school,4,18,Female,2,University,No,By car,50,165,65,117,18.4,No
+1056,Semi urban,Day school,5,17,Female,2,Secondary,No,By car,52,155,67,108,21.6,No
+1058,Semi urban,Day school,5,16,Female,1,Secondary,No,By car,56,163,67,111,21.1,No
+1066,Semi urban,Day school,5,17,Female,2,University,No,By car,70,161,76,106,27,YES
+1068,Semi urban,Day school,5,16,Female,1,Secondary,No,By bike,55,164,67,102,20.3,No
+1072,Semi urban,Day school,5,18,Female,1,University,No,By car,59,156,74,95,24,No
+1074,Semi urban,Day school,5,13,Female,2,University,No,On foot,47,164,67,118,17.3,No
+1076,Semi urban,Day school,5,17,Female,2,University,No,By bike,54,160,68,103,20.9,No
+1077,Semi urban,Day school,5,16,Female,3,Secondary,No,By bike,65,163,74,109,24.3,YES
+1080,Semi urban,Day school,5,15,Female,1,University,No,By car,50,158,68,107,20,No
+1086,Semi urban,Day school,5,16,Female,4,Secondary,No,By car,69,165,75,104,25.2,YES
+1096,Semi urban,Day school,5,16,Female,4,University,No,On foot,49,156,69,87,20.1,No
+1106,Semi urban,Day school,6,19,Female,3,Secondary,No,By car,56,168,71,114,19.7,No
+1111,Semi urban,Day school,5,16,Female,1,University,No,On foot,45,154,65,124,18.9,No
+1113,Semi urban,Day school,6,18,Female,2,Secondary,No,By bus,59,163,69,106,22,No
+1125,Semi urban,Day school,3,13,Female,2,University,No,On foot,51,165,70,110,18.8,No
+1126,Semi urban,Day school,3,13,Female,4,Secondary,No,On foot,56,170,80,105,19.4,No
+1127,Semi urban,Day school,3,14,Female,1,Secondary,No,On foot,41,150,68,118,18.4,No
+1130,Semi urban,Day school,3,13,Female,2,University,No,On foot,44,157,68,92,17.6,No
+1131,Semi urban,Day school,2,11,Female,2,Secondary,No,On foot,74,175,84,115,24.1,YES
+1133,Semi urban,Day school,2,13,Female,3,Secondary,No,On foot,45,150,69,108,20,No
+1135,Semi urban,Day school,3,15,Female,2,University,No,On foot,52,164,65,89,19.3,No
+1138,Semi urban,Day school,6,18,Female,2,University,No,By car,47,166,72,124,17.1,No
+1141,Semi urban,Day school,3,14,Female,2,University,No,On foot,50,155,70,119,20.9,No
+1143,Semi urban,Day school,4,14,Female,2,University,No,On foot,50,155,73,94,20.8,No
+1145,Semi urban,Day school,4,15,Female,3,Secondary,No,By car,61,166,75,103,22.1,No
+1162,Semi urban,Day school,4,14,Female,3,University,No,By car,78,165,86,123,28.7,YES
+1181,Semi urban,Day school,4,14,Female,2,Secondary,No,By car,44,159,65,100,17.4,No
+1182,Semi urban,Day school,4,15,Female,3,Primary,No,On foot,63,168,73,125,22.3,No
+1190,Semi urban,Day school,4,15,Female,2,University,No,By car,54,157,70,84,21.9,No
+1203,Rural,Day school,4,18,Female,4,University,No,On foot,53,158,74,109,21,No
+1213,Rural,Day school,4,16,Female,2,Secondary,No,By car,63,159,83,124,24.9,YES
+1214,Rural,Day school,4,14,Female,1,Secondary,No,On foot,45,157,665,110,18.2,No
+1216,Rural,Day school,3,14,Female,2,Primary,No,On foot,49,154,73,114,20.5,No
+1222,Rural,Day school,3,14,Female,2,Primary,No,By car,52,154,73,127,21.9,No
+1225,Rural,Day school,4,15,Female,1,Secondary,No,On foot,49,162,67,131,18.7,No
+1229,Semi urban,Day school,3,13,Female,1,Secondary,No,By car,74,169,80,125,25.9,YES
+1230,Semi urban,Day school,3,15,Female,1,University,No,By car,46,154,66,114,19.4,No
+1231,Semi urban,Day school,3,16,Female,3,Secondary,No,By car,53,115,70,112,40.1,YES
+1233,Semi urban,Day school,5,17,Female,2,Primary,No,On foot,62,146,79,116,29.1,YES
+1,Semi urban,Day school,2,14,Female,2,Secondary,Yes,On foot,52,157,73,108,21,No
+4,Semi urban,Day school,3,16,Female,2,University,Yes,On foot,51,156,74,122,20.8,No
+5,Semi urban,Day school,3,13,Female,1,Secondary,Yes,On foot,42,153,72,119,18,No
+8,Semi urban,Day school,3,14,Female,2,Secondary,Yes,On foot,43,160,74,126,17,No
+12,Semi urban,Day school,2,13,Female,2,Secondary,Yes,On foot,31,136,61,100,16.5,No
+13,Semi urban,Day school,4,16,Female,3,Primary,Yes,On foot,61,159,82,138,24.1,YES
+14,Semi urban,Day school,4,17,Female,3,Primary,Yes,On foot,54,159,70,116,21.5,No
+17,Semi urban,Day school,2,13,Female,2,Primary,Yes,On foot,47,157,68,125,18.9,No
+18,Semi urban,Day school,4,16,Female,2,University,Yes,On foot,57,161,72,106,21.8,No
+19,Semi urban,Day school,4,18,Female,2,Never,Yes,On foot,56,159,73,110,22.2,No
+20,Semi urban,Day school,1,10,Female,2,Secondary,Yes,On foot,31,137,64,91,16.5,No
+25,Semi urban,Day school,2,12,Female,2,University,Yes,On foot,50,146,69,107,23.5,YES
+27,Semi urban,Day school,1,12,Female,2,Secondary,Yes,On foot,36,153,68,103,15.3,No
+29,Semi urban,Day school,1,10,Female,2,University,Yes,On foot,34,147,67,112,15.9,No
+31,Semi urban,Day school,3,15,Female,3,Primary,Yes,By car,54,156,74,119,22.2,No
+33,Semi urban,Day school,3,13,Female,3,University,Yes,On foot,42,155,77,118,17.3,No
+34,Semi urban,Day school,1,12,Female,3,University,Yes,On foot,62,165,86,134,22.9,YES
+36,Semi urban,Day school,2,14,Female,2,Primary,Yes,On foot,35,147,73,87,16.4,No
+39,Semi urban,Day school,1,11,Female,2,University,Yes,On foot,37,148,73,95,17,No
+40,Semi urban,Day school,3,13,Female,2,Secondary,Yes,On foot,44,154,79,107,18.6,No
+41,Semi urban,Day school,1,15,Female,3,University,Yes,On foot,59,160,72,111,23.1,No
+42,Semi urban,Day school,4,16,Female,2,University,Yes,On foot,52,158,80,118,21,No
+47,Semi urban,Day school,4,16,Female,2,Secondary,Yes,On foot,72,145,89,127,34.2,YES
+48,Semi urban,Day school,4,15,Female,1,University,Yes,On foot,48,160,67,110,18.7,No
+49,Semi urban,Day school,4,15,Female,2,University,Yes,On foot,67,167,81,126,23.8,YES
+52,Semi urban,Day school,2,14,Female,3,Primary,Yes,On foot,40,147,69,118,18.3,No
+59,Semi urban,Day school,4,15,Female,3,University,Yes,On foot,61,155,75,128,25.6,YES
+61,Semi urban,Day school,4,15,Female,3,Primary,Yes,On foot,44,153,73,114,18.9,No
+75,Rural,Bording,2,13,Female,2,Secondary,Yes,By car,36,149,62,105,16.4,No
+78,Rural,Bording,2,13,Female,3,University,Yes,By car,51,151,82,135,22.4,YES
+79,Rural,Bording,2,13,Female,2,Secondary,Yes,By car,34,142,62,95,16.6,No
+82,Rural,Bording,2,15,Female,2,University,Yes,On foot,63,161,86,125,24.3,YES
+85,Rural,Bording,5,15,Female,4,Secondary,Yes,On foot,48,153,74,109,20.6,No
+87,Rural,Bording,3,14,Female,2,Secondary,Yes,By car,61,162,84,117,23.4,YES
+93,Rural,Bording,1,11,Female,2,Secondary,Yes,By car,47,151,70,120,20.6,YES
+94,Rural,Bording,4,15,Female,2,University,Yes,By car,41,158,74,138,16.5,No
+99,Rural,Bording,1,13,Female,4,University,Yes,On foot,46,148,72,100,21,No
+112,Rural,Bording,3,12,Female,2,University,Yes,On foot,40,147,68,107,18.5,No
+123,Rural,Bording,4,13,Female,3,University,Yes,By car,54,162,74,115,20.6,No
+129,Rural,Bording,7,17,Female,2,Secondary,Yes,On foot,61,170,71,106,21,No
+141,Rural,Day school,3,17,Female,1,Secondary,Yes,By bike,69,165,72,117,25.2,YES
+144,Rural,Day school,4,17,Female,2,University,Yes,By bus,70,166,72,129,25.4,YES
+145,Rural,Day school,4,17,Female,3,University,Yes,By bus,65,164,74,121,24.2,No
+151,Rural,Day school,1,13,Female,2,University,Yes,By bus,44,147,62,102,20.1,No
+153,Rural,Day school,4,16,Female,3,Primary,Yes,By bus,51,149,70,109,23,No
+156,Rural,Day school,2,12,Female,3,University,Yes,By car,46,157,65,111,18.7,No
+165,Rural,Day school,2,14,Female,1,Secondary,Yes,By bus,46,143,65,93,22.5,No
+179,Rural,Day school,1,14,Female,1,University,Yes,By bike,43,144,68,108,20.7,No
+185,Rural,Day school,3,16,Female,2,Secondary,Yes,By bus,68,166,76,113,24.5,YES
+190,Rural,Day school,1,16,Female,3,Primary,Yes,On foot,67,164,79,99,24.9,YES
+192,Rural,Day school,3,14,Female,4,Primary,Yes,On foot,45,155,62,90,18.5,No
+193,Rural,Day school,3,15,Female,3,Secondary,Yes,By bus,49,148,65,108,22.4,No
+194,Rural,Day school,1,14,Female,3,Secondary,Yes,On foot,50,157,75,128,20.3,No
+198,Semi urban,Bording school,4,13,Female,2,University,Yes,On foot,50,166,64,83,18.3,No
+203,Semi urban,Bording school,3,13,Female,2,University,Yes,By car,44,165,66,114,16.1,No
+214,Semi urban,Bording school,5,16,Female,2,University,Yes,On foot,58,162,86,119,22.2,No
+220,Semi urban,Bording school,7,19,Female,2,Secondary,Yes,By bike,54,156,71,116,22.3,No
+238,Semi urban,Bording school,3,13,Female,3,University,Yes,On foot,50,160,69,104,19.5,No
+243,Semi urban,Bording school,5,16,Female,2,University,Yes,On foot,64,175,79,114,20.9,No
+246,Semi urban,Bording school,3,13,Female,1,University,Yes,On foot,53,158,73,104,21,No
+249,Semi urban,Bording school,3,13,Female,2,Primary,Yes,On foot,42,163,69,112,15.9,No
+250,Semi urban,Bording school,4,14,Female,2,University,Yes,By car,66,158,81,111,26.3,YES
+252,Semi urban,Day school,4,14,Female,2,University,Yes,On foot,75,163,94,115,28.3,YES
+253,Semi urban,Day school,4,13,Female,2,Secondary,Yes,On foot,46,161,72,#NULL!,17.8,No
+254,Semi urban,Day school,4,18,Female,2,Secondary,Yes,On foot,55,161,70,#NULL!,21.1,No
+255,Semi urban,Day school,4,14,Female,3,Secondary,Yes,On foot,49,155,72,100,20.4,No
+256,Semi urban,Day school,4,17,Female,3,University,Yes,On foot,51,152,74,128,22.2,No
+262,Semi urban,Day school,4,18,Female,1,University,Yes,On foot,61,165,81,111,22.2,No
+264,Semi urban,Day school,4,14,Female,2,University,Yes,On foot,56,160,74,121,21.7,No
+266,Semi urban,Day school,4,15,Female,2,Secondary,Yes,On foot,38,150,63,#NULL!,16.9,No
+273,Semi urban,Day school,4,13,Female,4,Primary,Yes,On foot,39,148,66,101,17.6,No
+276,Semi urban,Day school,3,12,Female,3,Secondary,Yes,On foot,40,148,69,104,18.2,No
+277,Semi urban,Day school,1,12,Female,4,Secondary,Yes,On foot,37,142,38,109,18.2,No
+278,Semi urban,Day school,2,15,Female,4,University,Yes,On foot,50,152,72,137,21.7,No
+280,Semi urban,Day school,1,12,Female,2,Secondary,Yes,On foot,54,166,73,103,19.4,No
+283,Semi urban,Day school,2,13,Female,1,University,Yes,By car,70,159,82,122,27.5,YES
+286,Semi urban,Day school,4,14,Female,4,Primary,Yes,On foot,34,149,73,112,15.1,YES
+289,Semi urban,Day school,3,15,Female,2,Secondary,Yes,By car,53,159,70,110,21.1,No
+290,Semi urban,Day school,3,12,Female,3,Secondary,Yes,By car,79,165,94,123,29.1,YES
+294,Semi urban,Day school,3,14,Female,3,Secondary,Yes,On foot,46,151,73,126,20.3,No
+297,Semi urban,Day school,1,13,Female,3,University,Yes,By car,55,160,70,133,21.4,No
+299,Semi urban,Day school,3,18,Female,4,University,Yes,On foot,51,160,74,106,19.8,No
+300,Semi urban,Day school,3,15,Female,4,University,Yes,On foot,65,156,78,117,26.7,YES
+301,Semi urban,Day school,4,16,Female,2,University,Yes,By car,51,156,67,107,21.1,No
+302,Semi urban,Day school,1,12,Female,2,University,Yes,On foot,43,49,66,#NULL!,180.8,YES
+304,Rural,Day school,4,14,Female,2,Secondary,Yes,On foot,52,155,80,116,21.8,No
+305,Rural,Day school,2,12,Female,2,University,Yes,By car,44,150,84,90,19.7,No
+306,Rural,Day school,2,12,Female,3,Secondary,Yes,By car,46,145,87,108,22,YES
+307,Rural,Day school,2,13,Female,1,Primary,Yes,By car,56,157,81,116,22.9,YES
+308,Rural,Day school,4,15,Female,2,Secondary,Yes,On foot,57,157,82,110,23,No
+309,Rural,Day school,2,12,Female,2,Primary,Yes,On foot,47,150,84,112,20.7,YES
+313,Rural,Day school,2,13,Female,2,Secondary,Yes,On foot,80,165,64,113,29.3,YES
+316,Rural,Day school,4,15,Female,2,University,Yes,On foot,56,147,72,114,26.1,YES
+318,Rural,Day school,2,13,Female,2,University,Yes,On foot,43,146,87,101,20.3,No
+319,Rural,Day school,4,15,Female,4,University,Yes,On foot,50,154,89,120,21,No
+320,Rural,Day school,4,14,Female,2,Primary,Yes,By car,46,148,85,124,20.8,No
+326,Rural,Day school,2,13,Female,4,Secondary,Yes,On foot,39,149,91,89,17.4,No
+336,Rural,Day school,3,11,Female,2,Secondary,Yes,On foot,37,141,98,99,18.7,No
+337,Rural,Day school,2,13,Female,2,Primary,Yes,On foot,60,154,77,102,25.3,YES
+338,Rural,Day school,2,12,Female,2,University,Yes,By car,63,155,76,109,26,YES
+340,Rural,Day school,1,12,Female,2,Secondary,Yes,On foot,52,146,82,102,24.3,YES
+341,Rural,Day school,3,13,Female,3,Secondary,Yes,On foot,57,162,72,155,21.9,YES
+343,Rural,Day school,1,13,Female,3,Primary,Yes,On foot,51,152,67,102,21.9,YES
+344,Rural,Day school,1,12,Female,1,University,Yes,On foot,75,157,90,137,30.3,YES
+345,Rural,Day school,1,13,Female,2,University,Yes,By car,45,159,68,90,17.6,No
+346,Rural,Day school,1,13,Female,2,University,Yes,On foot,43,151,66,108,18.9,No
+347,Rural,Day school,1,13,Female,4,University,Yes,On foot,48,151,69,98,21.1,No
+348,Rural,Day school,1,13,Female,2,Secondary,Yes,By car,46,148,75,106,21.1,No
+349,Rural,Day school,1,13,Female,2,Secondary,Yes,On foot,35,142,62,105,17.4,No
+350,Rural,Day school,1,13,Female,2,University,Yes,On foot,42,146,68,97,19.6,No
+366,Semi urban,Day school,4,13,Female,2,Secondary,Yes,On foot,44,157,61,108,17.8,No
+370,Semi urban,Day school,4,15,Female,3,Primary,Yes,By car,41,155,62,111,17.2,No
+372,Semi urban,Day school,4,18,Female,2,Primary,Yes,On foot,72,162,84,138,27.5,YES
+373,Semi urban,Day school,4,17,Female,3,Secondary,Yes,On foot,56,156,71,115,23,No
+374,Semi urban,Day school,4,19,Female,3,Primary,Yes,On foot,53,152,75,112,22.8,No
+377,Semi urban,Day school,4,15,Female,3,University,Yes,On foot,56,175,78,132,18.2,No
+380,Semi urban,Day school,4,17,Female,2,Secondary,Yes,On foot,54,152,70,121,23.5,No
+381,Semi urban,Day school,4,16,Female,2,Secondary,Yes,On foot,55,168,69,112,19.6,No
+387,Semi urban,Day school,4,14,Female,3,Secondary,Yes,On foot,49,154,66,118,20.8,No
+390,Semi urban,Day school,5,15,Female,3,University,Yes,By car,62,166,71,124,22.4,No
+392,Semi urban,Day school,5,18,Female,2,University,Yes,On foot,61,163,81,121,23,No
+393,Semi urban,Day school,4,15,Female,1,Secondary,Yes,On foot,62,167,72,147,22.2,No
+420,Semi urban,Day school,4,15,Female,3,Secondary,Yes,On foot,62,170,77,119,21.5,No
+424,Semi urban,Day school,3,15,Female,3,University,Yes,By car,50,159,72,122,19.6,No
+425,Semi urban,Day school,4,15,Female,2,Never,Yes,On foot,69,165,78,124,25.3,YES
+426,Semi urban,Day school,4,16,Female,2,Secondary,Yes,On foot,61,168,78,145,21.6,No
+429,Semi urban,Day school,4,14,Female,3,University,Yes,By car,56,158,74,120,22.4,No
+430,Semi urban,Day school,6,18,Female,3,University,Yes,On foot,53,172,69,120,17.9,No
+431,Semi urban,Day school,4,16,Female,2,University,Yes,By car,66,165,77,144,24.2,YES
+432,Semi urban,Day school,4,14,Female,4,University,Yes,On foot,47,155,68,99,19.4,No
+433,Semi urban,Day school,5,15,Female,1,University,Yes,On foot,53,162,69,117,20.3,No
+435,Rural,Bording school,4,13,Female,3,University,Yes,On foot,44,159,68,112,17.4,No
+438,Rural,Bording school,3,13,Female,3,University,Yes,On foot,54,153,80,119,23.2,YES
+440,Rural,Bording school,4,14,Female,1,University,Yes,By bus,58,152,75,127,25.1,YES
+441,Rural,Bording school,4,14,Female,3,University,Yes,On foot,59,151,80,103,25.9,YES
+442,Rural,Bording school,3,16,Female,3,University,Yes,On foot,52,166,72,92,19,No
+444,Rural,Bording school,4,14,Female,2,University,Yes,On foot,43,159,68,111,17.1,No
+445,Rural,Bording school,4,13,Female,2,University,Yes,On foot,52,154,69,108,22,YES
+450,Rural,Bording school,4,14,Female,4,University,Yes,By car,43,156,64,115,17.5,No
+452,Rural,Bording school,6,17,Female,2,University,Yes,By bike,75,164,84,128,28,YES
+454,Rural,Bording school,1,12,Female,4,University,Yes,On foot,59,152,84,116,25.7,YES
+456,Rural,Bording school,3,14,Female,2,University,Yes,On foot,57,164,79,110,21.1,No
+460,Rural,Bording school,3,14,Female,3,Secondary,Yes,On foot,62,160,71,107,24.1,YES
+461,Rural,Bording school,3,14,Female,2,University,Yes,On foot,66,162,77,110,25.1,YES
+462,Rural,Bording school,3,14,Female,2,University,Yes,On foot,72,156,#NULL!,113,29.4,YES
+463,Rural,Bording school,3,13,Female,2,University,Yes,On foot,58,161,73,114,22.4,YES
+468,Rural,Bording school,3,13,Female,3,University,Yes,On foot,49,160,69,101,19.1,No
+469,Rural,Bording school,4,13,Female,3,Secondary,Yes,On foot,48,153,74,107,20.5,No
+470,Rural,Bording school,3,12,Female,1,University,Yes,On foot,33,150,66,98,14.8,No
+471,Rural,Bording school,4,17,Female,2,Secondary,Yes,On foot,55,158,76,133,22.1,No
+473,Rural,Bording school,4,14,Female,4,University,Yes,On foot,40,161,66,106,15.4,YES
+474,Rural,Bording school,4,15,Female,3,University,Yes,On foot,60,158,89,99,24.2,YES
+475,Rural,Bording school,4,14,Female,2,University,Yes,On foot,46,155,67,102,19.2,No
+479,Rural,Bording school,4,13,Female,4,University,Yes,On foot,66,162,80,114,25.1,YES
+485,Rural,Bording school,3,13,Female,2,University,Yes,On foot,71,161,80,112,27.4,YES
+488,Rural,Bording school,3,13,Female,2,University,Yes,By car,54,158,70,117,21.5,No
+489,Rural,Bording school,3,12,Female,2,Secondary,Yes,By bus,52,157,70,133,21.3,YES
+493,Rural,Bording school,4,14,Female,2,University,Yes,On foot,62,161,79,130,24.1,YES
+495,Rural,Bording school,4,14,Female,4,Secondary,Yes,On foot,38,155,65,114,15.6,No
+498,Rural,Bording school,4,15,Female,3,Secondary,Yes,On foot,59,161,79,114,22.8,No
+499,Rural,Bording school,6,16,Female,3,University,Yes,On foot,51,162,74,100,19.4,No
+501,Rural,Bording school,6,15,Female,2,Secondary,Yes,On foot,48,152,69,122,20.7,No
+502,Rural,Bording school,6,17,Female,2,University,Yes,On foot,56,166,68,119,20.4,No
+504,Rural,Bording school,3,14,Female,3,University,Yes,On foot,53,168,63,121,18.8,No
+506,Rural,Bording school,3,14,Female,2,University,Yes,On foot,56,159,68,117,22,No
+510,Rural,Bording school,6,17,Female,1,University,Yes,On foot,54,154,72,92,22.7,No
+512,Rural,Bording school,3,14,Female,2,University,Yes,On foot,50,155,73,106,20.9,No
+513,Rural,Bording school,6,17,Female,1,University,Yes,On foot,60,163,75,85,22.5,No
+517,Rural,Bording school,3,14,Female,2,Secondary,Yes,On foot,58,161,75,117,22.2,No
+518,Rural,Bording school,3,13,Female,2,Secondary,Yes,On foot,50,163,67,108,18.7,No
+519,Rural,Bording school,6,16,Female,4,University,Yes,On foot,62,161,73,106,23.8,No
+521,Rural,Day school,2,13,Female,3,University,Yes,On foot,8,165,98,136,2.9,YES
+527,Rural,Day school,2,14,Female,3,University,Yes,By bike,48,159,68,106,19.1,No
+530,Rural,Day school,2,13,Female,3,University,Yes,By car,54,162,81,122,20.5,No
+531,Rural,Day school,1,12,Female,2,University,Yes,On foot,49,148,74,118,22.4,YES
+542,Rural,Day school,2,12,Female,1,University,Yes,By car,52,151,72,101,22.8,YES
+543,Rural,Day school,2,12,Female,4,University,Yes,By bike,42,148,67,102,18.9,No
+544,Rural,Day school,2,15,Female,2,University,Yes,By bike,59,147,79,121,27.3,YES
+548,Rural,Day school,2,13,Female,2,Secondary,Yes,On foot,55,164,68,115,20.3,No
+550,Rural,Day school,3,13,Female,3,University,Yes,By car,51,159,70,120,20,No
+552,Rural,Day school,2,13,Female,2,Primary,Yes,On foot,52,154,78,105,21.9,YES
+554,Rural,Day school,3,13,Female,2,Secondary,Yes,On foot,44,151,69,131,19.3,No
+555,Rural,Day school,3,14,Female,2,University,Yes,By car,49,158,67,113,19.5,No
+556,Rural,Day school,3,13,Female,4,Secondary,Yes,By car,40,147,68,122,18.5,No
+557,Rural,Day school,3,14,Female,4,Secondary,Yes,On foot,56,164,79,125,20.9,No
+561,Rural,Day school,2,13,Female,1,University,Yes,On foot,41,150,63,96,18.3,No
+564,Rural,Day school,2,13,Female,3,University,Yes,On foot,40,152,65,104,17.1,No
+575,Rural,Day school,1,12,Female,2,Secondary,Yes,On foot,43,145,74,128,20.6,No
+580,Rural,Day school,4,14,Female,3,Secondary,Yes,By bike,52,160,73,97,20.4,No
+582,Rural,Day school,4,16,Female,1,Secondary,Yes,By car,65,162,74,114,24.8,YES
+588,Semi urban,Day school,4,14,Female,2,University,Yes,By car,44,157,65,117,17.8,No
+589,Semi urban,Day school,4,15,Female,3,University,Yes,On foot,54,150,77,150,23.8,YES
+591,Semi urban,Day school,4,17,Female,3,Secondary,Yes,By car,82,162,99,138,31.1,YES
+592,Semi urban,Day school,4,16,Female,3,Secondary,Yes,By car,87,163,96,140,32.7,YES
+593,Semi urban,Day school,4,15,Female,2,University,Yes,By car,49,154,70,157,20.5,No
+600,Semi urban,Day school,4,15,Female,3,Secondary,Yes,On foot,52,151,76,128,22.8,No
+601,Semi urban,Day school,4,15,Female,3,University,Yes,On foot,59,151,78,107,25.7,YES
+602,Semi urban,Day school,4,14,Female,3,University,Yes,By car,62,177,82,123,19.6,No
+603,Semi urban,Day school,4,13,Female,3,University,Yes,On foot,70,164,88,132,26,YES
+605,Semi urban,Day school,4,14,Female,2,University,Yes,By car,67,163,80,114,25,YES
+606,Semi urban,Day school,4,14,Female,2,University,Yes,By car,74,168,82,114,26.1,YES
+607,Semi urban,Day school,4,13,Female,3,University,Yes,By car,45,160,62,134,17.5,No
+617,Semi urban,Day school,4,14,Female,2,University,Yes,By car,48,147,73,95,22.1,No
+618,Semi urban,Day school,4,13,Female,3,Secondary,Yes,By car,53,166,67,125,19.2,No
+622,Semi urban,Day school,4,14,Female,3,Secondary,Yes,By car,53,157,77,121,21.5,No
+625,Semi urban,Day school,4,13,Female,2,University,Yes,By car,54,157,74,122,21.9,YES
+626,Semi urban,Day school,4,15,Female,2,Secondary,Yes,On foot,65,161,85,117,25.1,YES
+628,Semi urban,Day school,4,13,Female,1,University,Yes,On foot,50,155,72,102,20.6,No
+629,Semi urban,Day school,4,13,Female,2,University,Yes,On foot,49,144,74,127,23.6,YES
+631,Semi urban,Day school,4,14,Female,3,University,Yes,By car,57,164,78,121,21.2,No
+633,Semi urban,Day school,4,15,Female,3,University,Yes,By car,57,160,75,115,22.1,No
+637,Semi urban,Day school,4,15,Female,3,Secondary,Yes,By car,63,153,81,128,26.8,YES
+638,Semi urban,Day school,4,15,Female,1,Secondary,Yes,By car,65,159,84,120,25.8,YES
+644,Semi urban,Day school,4,14,Female,4,University,Yes,By car,57,173,71,107,18.9,No
+648,Semi urban,Day school,4,15,Female,4,University,Yes,By car,51,157,73,103,20.5,No
+650,Semi urban,Day school,4,13,Female,2,University,Yes,On foot,66,156,88,127,27.1,YES
+651,Semi urban,Day school,4,14,Female,2,Secondary,Yes,By car,62,162,80,118,23.6,YES
+653,Semi urban,Day school,4,15,Female,1,Secondary,Yes,By car,57,162,70,106,21.8,No
+655,Semi urban,Day school,4,14,Female,1,Secondary,Yes,On foot,78,159,92,112,30.7,YES
+657,Semi urban,Day school,4,16,Female,4,University,Yes,By car,62,174,72,113,20.6,No
+658,Semi urban,Day school,4,14,Female,2,University,Yes,On foot,54,156,79,101,22.2,No
+659,Semi urban,Day school,4,15,Female,2,Primary,Yes,By car,66,168,75,120,23.2,No
+661,Semi urban,Day school,4,15,Female,3,Secondary,Yes,By car,64,159,80,123,25.1,YES
+662,Semi urban,Day school,4,15,Female,3,Secondary,Yes,By car,54,159,75,108,21.3,No
+663,Semi urban,Day school,4,13,Female,4,University,Yes,On foot,60,155,78,133,25.1,YES
+665,Semi urban,Day school,4,14,Female,3,Secondary,Yes,On foot,66,160,84,135,25.7,YES
+667,Semi urban,Day school,4,14,Female,2,Secondary,Yes,By car,67,158,86,109,26.8,YES
+669,Semi urban,Day school,4,15,Female,3,Secondary,Yes,By car,61,168,80,125,21.6,No
+670,Semi urban,Day school,4,14,Female,3,University,Yes,By car,45,149,66,105,20.1,No
+673,Semi urban,Day school,4,14,Female,3,University,Yes,By car,60,154,80,126,25.4,YES
+674,Semi urban,Day school,4,14,Female,2,Secondary,Yes,By car,67,162,86,120,25.5,YES
+676,Semi urban,Day school,4,14,Female,3,University,Yes,By car,53,156,74,115,21.7,No
+679,Semi urban,Day school,4,15,Female,3,University,Yes,On foot,67,166,87,109,24.4,YES
+680,Semi urban,Day school,6,19,Female,3,Secondary,Yes,On foot,90,163,90,169,33.7,YES
+685,Semi urban,Day school,6,18,Female,3,University,Yes,By car,53,158,71,114,21.2,No
+692,Semi urban,Day school,6,17,Female,2,Secondary,Yes,By bike,61,157,80,104,24.7,YES
+694,Semi urban,Day school,6,16,Female,2,Secondary,Yes,By car,76,170,80,119,26.3,YES
+703,Semi urban,Day school,6,16,Female,2,University,Yes,By car,65,164,79,106,24.2,YES
+707,Semi urban,Day school,4,16,Female,3,Primary,Yes,On foot,66,160,86,161,25.8,YES
+708,Semi urban,Day school,4,14,Female,3,University,Yes,By car,48,160,71,106,18.8,No
+709,Semi urban,Day school,4,13,Female,3,University,Yes,On foot,56,168,72,84,19.8,No
+710,Semi urban,Day school,4,15,Female,3,Secondary,Yes,By car,65,153,88,104,27.8,YES
+711,Semi urban,Day school,4,14,Female,3,Secondary,Yes,By car,69,167,76,88,24.7,YES
+712,Semi urban,Day school,4,14,Female,3,Never,Yes,By car,55,154,71,103,23.2,YES
+713,Semi urban,Day school,4,14,Female,4,Secondary,Yes,On foot,52,157,68,134,21.1,No
+715,Semi urban,Day school,4,14,Female,3,Secondary,Yes,On foot,40,141,67,104,20.1,No
+717,Semi urban,Day school,4,17,Female,3,Primary,Yes,By car,64,159,82,102,25.3,YES
+718,Semi urban,Day school,4,15,Female,3,University,Yes,By car,55,159,74,118,21.8,No
+719,Semi urban,Day school,4,14,Female,3,Secondary,Yes,By bus,44,146,73,104,20.6,No
+720,Semi urban,Day school,4,14,Female,2,Never,Yes,By car,47,160,64,101,18.4,No
+721,Semi urban,Day school,4,14,Female,3,Secondary,Yes,On foot,45,149,65,98,20.3,No
+724,Semi urban,Day school,4,15,Female,4,Primary,Yes,By car,53,167,67,111,19,No
+726,Semi urban,Day school,4,18,Female,2,Secondary,Yes,By car,66,169,75,116,23.1,No
+732,Semi urban,Day school,4,14,Female,1,University,Yes,By car,65,160,86,114,25.4,YES
+734,Semi urban,Day school,4,15,Female,3,Secondary,Yes,By car,49,159,66,115,19.4,No
+735,Semi urban,Day school,4,15,Female,3,Secondary,Yes,By car,54,160,70,101,21.1,No
+736,Semi urban,Day school,4,14,Female,2,Secondary,Yes,By car,50,166,68,100,18.1,No
+737,Semi urban,Day school,4,14,Female,2,University,Yes,By car,64,167,72,131,22.9,YES
+739,Semi urban,Day school,4,15,Female,2,Secondary,Yes,By car,59,161,78,124,22.8,No
+746,Semi urban,Day school,4,15,Female,1,Never,Yes,By bus,59,164,67,94,21.9,No
+748,Semi urban,Day school,4,14,Female,2,Secondary,Yes,On foot,65,160,78,111,25.4,YES
+749,Semi urban,Day school,4,16,Female,1,Secondary,Yes,By car,59,170,69,109,20.4,No
+752,Semi urban,Day school,4,13,Female,2,University,Yes,By car,48,164,69,108,17.8,No
+753,Semi urban,Day school,4,16,Female,2,Primary,Yes,By car,59,160,72,104,23,No
+754,Semi urban,Day school,4,15,Female,2,University,Yes,By car,52,157,68,104,21.1,No
+755,Semi urban,Day school,4,14,Female,2,Secondary,Yes,By car,61,163,71,104,23,YES
+757,Semi urban,Day school,4,14,Female,1,Secondary,Yes,By car,44,154,68,110,18.6,No
+759,Semi urban,Day school,4,14,Female,3,Secondary,Yes,By car,39,150,67,102,17.3,No
+760,Semi urban,Day school,4,13,Female,2,Secondary,Yes,On foot,60,168,78,112,21.3,No
+761,Semi urban,Day school,4,15,Female,3,University,Yes,By car,60,158,79,102,24,YES
+762,Semi urban,Day school,4,14,Female,3,University,Yes,By car,55,160,75,108,21.5,No
+763,Semi urban,Day school,4,15,Female,2,University,Yes,By car,62,161,74,115,23.9,YES
+764,Semi urban,Day school,4,15,Female,3,Primary,Yes,By car,50,166,70,122,18.1,No
+766,Semi urban,Day school,4,14,Female,2,University,Yes,By car,48,160,67,113,18.8,No
+767,Semi urban,Day school,4,14,Female,2,Secondary,Yes,By car,45,163,66,88,16.9,No
+768,Semi urban,Day school,4,14,Female,4,Never,Yes,By car,55,161,68,119,21.2,No
+769,Semi urban,Bording school,2,12,Female,2,University,Yes,On foot,40,146,65,88,18.5,No
+772,Semi urban,Bording school,2,12,Female,3,University,Yes,On foot,51,153,73,97,21.8,YES
+773,Semi urban,Bording school,2,12,Female,4,University,Yes,On foot,40,152,64,90,17.1,No
+774,Semi urban,Bording school,2,12,Female,2,University,Yes,On foot,45,153,61,73,19.2,No
+775,Semi urban,Bording school,2,12,Female,2,University,Yes,On foot,50,149,74,101,22.5,YES
+776,Semi urban,Bording school,1,11,Female,2,University,Yes,On foot,55,150,71,95,24.2,YES
+778,Semi urban,Bording school,2,13,Female,2,University,Yes,On foot,49,152,66,79,21,No
+779,Semi urban,Bording school,2,12,Female,2,University,Yes,On foot,59,164,67,106,21.8,YES
+780,Semi urban,Bording school,7,19,Female,3,Secondary,Yes,On foot,83,166,86,112,30.1,YES
+781,Semi urban,Bording school,7,18,Female,3,Secondary,Yes,On foot,62,163,74,116,23.3,No
+782,Semi urban,Bording school,7,17,Female,2,Secondary,Yes,On foot,69,173,71,118,22.9,No
+783,Semi urban,Bording school,7,18,Female,3,University,Yes,On foot,58,160,68,94,22.5,No
+784,Semi urban,Bording school,7,18,Female,4,University,Yes,On foot,84,175,81,108,27.4,YES
+786,Semi urban,Bording school,7,18,Female,2,Secondary,Yes,On foot,73,168,74,104,25.7,YES
+787,Semi urban,Bording school,6,15,Female,4,University,Yes,On foot,64,167,70,97,22.8,No
+788,Semi urban,Bording school,6,18,Female,2,Primary,Yes,On foot,53,151,72,136,23,No
+789,Semi urban,Bording school,6,16,Female,2,University,Yes,On foot,59,160,69,90,23,No
+791,Semi urban,Bording school,3,12,Female,2,University,Yes,On foot,86,152,10,115,37.2,YES
+793,Semi urban,Bording school,3,12,Female,3,Secondary,Yes,On foot,41,152,63,109,17.5,No
+794,Semi urban,Bording school,3,15,Female,2,University,Yes,By car,67,165,77,100,24.6,YES
+797,Semi urban,Bording school,4,14,Female,3,University,Yes,By car,47,168,64,104,16.7,No
+800,Semi urban,Bording school,5,15,Female,2,University,Yes,On foot,4,158,84,95,1.4,No
+803,Semi urban,Bording school,4,14,Female,2,University,Yes,By bus,44,157,64,143,17.9,No
+807,Semi urban,Bording school,6,15,Female,2,University,Yes,On foot,51,156,66,86,20.8,No
+810,Semi urban,Bording school,4,13,Female,3,University,Yes,By car,49,161,66,119,18.9,No
+812,Semi urban,Bording school,4,16,Female,3,Secondary,Yes,On foot,70,162,75,102,26.7,YES
+814,Semi urban,Bording school,5,16,Female,4,University,Yes,On foot,57,155,70,94,23.5,No
+819,Semi urban,Bording school,4,15,Female,2,Secondary,Yes,On foot,62,155,75,117,25.8,YES
+821,Semi urban,Bording school,5,15,Female,2,University,Yes,On foot,55,159,68,117,21.8,No
+823,Semi urban,Bording school,5,14,Female,1,University,Yes,On foot,50,153,66,95,21.4,No
+824,Semi urban,Bording school,7,19,Female,4,Secondary,Yes,On foot,59,168,71,96,20.7,YES
+826,Semi urban,Bording school,5,15,Female,3,University,Yes,On foot,53,158,67,110,21.2,No
+827,Semi urban,Bording school,5,15,Female,2,Secondary,Yes,On foot,55,176,67,90,17.8,No
+828,Semi urban,Bording school,6,17,Female,3,University,Yes,On foot,68,167,77,89,24.4,No
+829,Semi urban,Bording school,5,15,Female,3,University,Yes,On foot,54,169,65,111,18.9,No
+830,Semi urban,Bording school,4,16,Female,4,Secondary,Yes,By bike,51,64,64,93,124.5,YES
+831,Semi urban,Bording school,5,15,Female,3,University,Yes,On foot,58,151,70,168,25.4,YES
+832,Semi urban,Bording school,5,15,Female,1,University,Yes,By car,87,162,84,116,33.2,YES
+841,Rural,Bording school,2,12,Female,4,Secondary,Yes,On foot,44,156,68,111,18.1,No
+843,Semi urban,Day school,6,16,Female,3,University,Yes,By bike,51,160,71,120,19.8,No
+847,Semi urban,Day school,3,14,Female,2,University,Yes,By bike,50,160,80,101,19.5,No
+850,Rural,Bording school,4,14,Female,3,Primary,Yes,On foot,52,157,68,96,21.1,No
+855,Rural,Bording school,7,18,Female,2,University,Yes,On foot,64,173,66,102,21.4,No
+857,Semi urban,Day school,4,15,Female,2,Secondary,Yes,On foot,54,161,68,113,20.8,No
+859,Rural,Bording school,2,13,Female,2,Secondary,Yes,On foot,0,161,83,93,0,No
+861,Semi urban,Day school,4,14,Female,2,University,Yes,On foot,45,146,73,120,21.2,No
+864,Semi urban,Day school,6,16,Female,2,Secondary,Yes,By car,65,164,77,140,24.3,YES
+866,Semi urban,Day school,3,14,Female,2,Primary,Yes,On foot,44,157,68,107,18,No
+880,Semi urban,Day school,6,16,Female,2,Secondary,Yes,On foot,61,156,73,132,25.1,YES
+886,Semi urban,Day school,6,18,Female,2,Secondary,Yes,By car,52,166,71,149,18.8,No
+888,Rural,Bording school,5,14,Female,3,University,Yes,On foot,52,160,74,105,20.3,No
+889,Semi urban,Day school,4,14,Female,3,Secondary,Yes,On foot,60,153,73,139,25.5,YES
+892,Semi urban,Day school,3,13,Female,4,Secondary,Yes,On foot,36,157,66,111,14.8,No
+896,Rural,Bording school,7,18,Female,2,Secondary,Yes,On foot,51,169,69,102,17.9,No
+900,Semi urban,Day school,6,18,Female,2,University,Yes,On foot,59,163,73,102,22.1,No
+904,Rural,Bording school,5,15,Female,2,University,Yes,On foot,76,124,86,121,49.4,YES
+907,Rural,Bording school,2,13,Female,2,University,Yes,On foot,68,155,82,120,28.1,YES
+911,Rural,Bording school,2,18,Female,3,Primary,Yes,On foot,42,152,35,100,18.2,No
+921,Rural,Bording school,4,16,Female,4,Secondary,Yes,On foot,62,167,66,115,22.2,No
+926,Semi urban,Day school,4,14,Female,4,University,Yes,On foot,60,172,74,105,20.2,No
+928,Semi urban,Day school,4,16,Female,2,Secondary,Yes,On foot,53,155,72,98,22.1,No
+929,Semi urban,Day school,3,14,Female,1,University,Yes,On foot,53,162,72,98,20.2,No
+930,Rural,Bording school,7,19,Female,3,University,Yes,By car,54,160,66,115,20.9,No
+938,Semi urban,Day school,3,13,Female,1,University,Yes,On foot,51,166,74,107,18.5,No
+945,Semi urban,Day school,4,14,Female,2,Secondary,Yes,On foot,46,152,70,105,19.8,No
+946,Rural,Bording school,5,17,Female,3,University,Yes,On foot,7,162,74,123,2.7,YES
+948,Rural,Bording school,5,16,Female,2,University,Yes,On foot,55,165,70,92,20.2,No
+951,Semi urban,Day school,4,14,Female,3,Secondary,Yes,By bike,56,163,69,94,21,No
+953,Semi urban,Day school,6,16,Female,2,Primary,Yes,On foot,82,164,90,119,30.3,YES
+955,Rural,Bording school,2,12,Female,3,University,Yes,On foot,44,147,64,82,20.4,No
+956,Semi urban,Day school,4,16,Female,2,Primary,Yes,On foot,74,175,83,113,24.2,YES
+958,Rural,Bording school,4,15,Female,2,University,Yes,On foot,64,163,73,128,24.1,YES
+962,Rural,Bording school,5,16,Female,4,University,Yes,On foot,52,164,76,110,19.3,No
+966,Semi urban,Day school,3,15,Female,3,Secondary,Yes,On foot,61,158,79,128,24.6,YES
+972,Rural,Bording school,2,13,Female,3,Primary,Yes,On foot,48,152,75,92,20.8,No
+973,Semi urban,Day school,6,17,Female,4,Secondary,Yes,By car,46,154,69,127,19.5,No
+976,Semi urban,Day school,4,15,Female,3,Secondary,Yes,On foot,59,165,75,121,21.7,No
+978,Rural,Bording school,7,18,Female,2,University,Yes,By bus,89,166,99,141,32.3,YES
+983,Semi urban,Day school,3,14,Female,2,Primary,Yes,On foot,49,158,70,126,19.7,No
+985,Semi urban,Day school,4,14,Female,4,Secondary,Yes,On foot,54,155,72,108,22.4,No
+989,Rural,Bording school,5,17,Female,3,University,Yes,On foot,57,169,76,157,20,No
+995,Rural,Bording school,5,15,Female,2,University,Yes,On foot,59,167,74,120,21.2,No
+999,Rural,Bording school,5,15,Female,3,Primary,Yes,On foot,54,149,76,105,24.3,No
+1008,Semi urban,Day school,6,19,Female,3,Secondary,Yes,On foot,90,163,90,169,33.7,YES
+1013,Semi urban,Day school,6,18,Female,3,University,Yes,By car,53,158,71,114,21.2,No
+1020,Semi urban,Day school,6,17,Female,2,Secondary,Yes,By bike,61,157,80,104,24.7,YES
+1022,Semi urban,Day school,6,16,Female,2,Secondary,Yes,By car,76,170,80,119,26.3,YES
+1029,Semi urban,Day school,4,16,Female,2,Primary,Yes,On foot,55,152,74,118,23.8,No
+1031,Semi urban,Day school,5,19,Female,1,Secondary,Yes,By car,88,163,98,122,33.1,YES
+1033,Semi urban,Day school,5,17,Female,3,Secondary,Yes,On foot,62,155,70,121,25.8,YES
+1038,Semi urban,Day school,4,16,Female,3,University,Yes,By car,67,160,71,112,26.2,YES
+1039,Semi urban,Day school,4,17,Female,4,University,Yes,By car,53,157,66,113,21.5,No
+1045,Semi urban,Day school,3,13,Female,1,Secondary,Yes,By car,63,159,79,118,24.9,YES
+1049,Semi urban,Day school,5,16,Female,3,Primary,Yes,On foot,70,155,79,99,29.1,YES
+1057,Semi urban,Day school,5,16,Female,2,University,Yes,By car,51,151,69,114,22.4,No
+1065,Semi urban,Day school,5,16,Female,3,Secondary,Yes,By bike,59,158,70,97,23.4,No
+1067,Semi urban,Day school,5,14,Female,2,University,Yes,By car,71,167,71,116,25.3,YES
+1069,Semi urban,Day school,5,15,Female,2,Secondary,Yes,By bike,49,158,60,78,19.6,No
+1070,Semi urban,Day school,5,16,Female,4,University,Yes,By car,60,161,72,111,23.1,No
+1071,Semi urban,Day school,5,16,Female,3,University,Yes,By bike,73,173,72,111,24.2,YES
+1073,Semi urban,Day school,5,16,Female,4,University,Yes,By bike,52,164,67,107,19.1,No
+1075,Semi urban,Day school,5,14,Female,3,Secondary,Yes,On foot,55,161,64,103,21,No
+1078,Semi urban,Day school,5,16,Female,2,Secondary,Yes,By bike,56,159,69,105,22.2,No
+1079,Semi urban,Day school,5,16,Female,3,University,Yes,On foot,58,157,70,122,23.3,No
+1085,Semi urban,Day school,5,16,Female,2,Secondary,Yes,By car,80,168,83,116,28.3,YES
+1099,Semi urban,Day school,4,16,Female,2,Primary,Yes,By car,68,155,88,110,28.2,YES
+1101,Semi urban,Day school,5,16,Female,3,Secondary,Yes,By car,60,160,71,117,23.4,No
+1102,Semi urban,Day school,4,16,Female,3,Secondary,Yes,On foot,57,152,71,126,24.5,YES
+1103,Semi urban,Day school,6,16,Female,4,Secondary,Yes,On foot,89,153,99,106,37.9,YES
+1114,Semi urban,Day school,6,16,Female,2,University,Yes,By car,65,164,79,106,24.2,YES
+1118,Semi urban,Day school,4,16,Female,3,Primary,Yes,On foot,66,160,86,161,25.8,YES
+1119,Semi urban,Day school,4,14,Female,3,University,Yes,By car,48,160,71,106,18.8,No
+1120,Semi urban,Day school,4,13,Female,3,University,Yes,On foot,56,168,72,84,19.8,No
+1121,Semi urban,Day school,4,15,Female,3,Secondary,Yes,By car,65,153,88,104,27.8,YES
+1122,Semi urban,Day school,4,14,Female,3,Secondary,Yes,By car,69,167,76,88,24.7,YES
+1123,Semi urban,Day school,4,14,Female,3,Never,Yes,By car,55,154,71,103,23.2,YES
+1124,Semi urban,Day school,3,16,Female,2,Secondary,Yes,By car,63,165,75,115,23,No
+1136,Semi urban,Day school,6,17,Female,2,Secondary,Yes,By car,64,164,71,126,23.7,No
+1139,Semi urban,Day school,3,14,Female,2,Secondary,Yes,On foot,50,165,71,120,18.3,No
+1140,Semi urban,Day school,3,15,Female,2,Secondary,Yes,On foot,51,161,67,127,19.6,No
+1142,Semi urban,Day school,4,14,Female,4,Secondary,Yes,On foot,52,157,68,134,21.1,No
+1144,Semi urban,Day school,4,14,Female,3,Secondary,Yes,On foot,40,141,67,104,20.1,No
+1146,Semi urban,Day school,4,17,Female,3,Primary,Yes,By car,64,159,82,102,25.3,YES
+1147,Semi urban,Day school,4,15,Female,3,University,Yes,By car,55,159,74,118,21.8,No
+1148,Semi urban,Day school,4,14,Female,3,Secondary,Yes,By bus,44,146,73,104,20.6,No
+1149,Semi urban,Day school,4,14,Female,2,Never,Yes,By car,47,160,64,101,18.4,No
+1150,Semi urban,Day school,4,14,Female,3,Secondary,Yes,On foot,45,149,65,98,20.3,No
+1153,Semi urban,Day school,4,15,Female,4,Primary,Yes,By car,53,167,67,111,19,No
+1155,Semi urban,Day school,4,18,Female,2,Secondary,Yes,By car,66,169,75,116,23.1,No
+1161,Semi urban,Day school,4,14,Female,1,University,Yes,By car,65,160,86,114,25.4,YES
+1163,Semi urban,Day school,4,15,Female,3,Secondary,Yes,By car,49,159,66,115,19.4,No
+1164,Semi urban,Day school,4,15,Female,3,Secondary,Yes,By car,54,160,70,101,21.1,No
+1165,Semi urban,Day school,4,14,Female,2,Secondary,Yes,By car,50,166,68,100,18.1,No
+1166,Semi urban,Day school,4,14,Female,2,University,Yes,By car,64,167,72,131,22.9,YES
+1175,Semi urban,Day school,4,15,Female,1,Never,Yes,By bus,59,164,67,94,21.9,No
+1177,Semi urban,Day school,4,14,Female,2,Secondary,Yes,On foot,65,160,78,111,25.4,YES
+1178,Semi urban,Day school,4,15,Female,2,Secondary,Yes,By car,59,161,78,124,22.8,No
+1179,Semi urban,Day school,4,16,Female,1,Secondary,Yes,By car,59,170,69,109,20.4,No
+1180,Semi urban,Day school,4,14,Female,2,Secondary,Yes,By car,45,163,66,88,16.9,No
+1183,Semi urban,Day school,4,13,Female,2,University,Yes,By car,48,164,69,108,17.8,No
+1184,Semi urban,Day school,4,16,Female,2,Primary,Yes,By car,59,160,72,104,23,No
+1185,Semi urban,Day school,4,15,Female,2,University,Yes,By car,52,157,68,104,21.1,No
+1186,Semi urban,Day school,4,14,Female,2,Secondary,Yes,By car,61,163,71,104,23,YES
+1188,Semi urban,Day school,4,14,Female,4,Never,Yes,By car,55,161,68,119,21.2,No
+1189,Semi urban,Day school,4,14,Female,1,Secondary,Yes,By car,44,154,68,110,18.6,No
+1191,Semi urban,Day school,4,14,Female,3,Secondary,Yes,By car,39,150,67,102,17.3,No
+1192,Semi urban,Day school,4,13,Female,2,Secondary,Yes,On foot,60,168,78,112,21.3,No
+1193,Semi urban,Day school,4,15,Female,3,University,Yes,By car,60,158,79,102,24,YES
+1194,Semi urban,Day school,4,14,Female,3,University,Yes,By car,55,160,75,108,21.5,No
+1195,Semi urban,Day school,4,15,Female,2,University,Yes,By car,62,161,74,115,23.9,YES
+1196,Semi urban,Day school,4,15,Female,3,Primary,Yes,By car,50,166,70,122,18.1,No
+1198,Semi urban,Day school,4,14,Female,2,University,Yes,By car,48,160,67,113,18.8,No
+1209,Rural,Day school,4,15,Female,3,University,Yes,On foot,48,146,715,127,22.5,No
+1210,Rural,Day school,4,16,Female,1,Primary,Yes,On foot,62,165,73,127,22.8,No
+1211,Rural,Day school,4,15,Female,4,Secondary,Yes,On foot,51,161,687,116,19.6,No
+1212,Rural,Day school,2,15,Female,2,Primary,Yes,On foot,55,160,78,123,21.4,No
+1215,Rural,Day school,3,14,Female,4,Secondary,Yes,On foot,47,154,70,108,19.7,No
+1217,Rural,Day school,3,14,Female,3,University,Yes,On foot,45,154,71,103,19.1,No
+1218,Rural,Day school,3,14,Female,2,Primary,Yes,On foot,57,155,77,123,23.7,YES
+1219,Rural,Day school,3,15,Female,4,Primary,Yes,By bus,65,101,77,107,63.3,YES
+1220,Rural,Day school,3,14,Female,2,Secondary,Yes,On foot,56,161,739,122,21.8,No
+1221,Rural,Day school,3,14,Female,3,University,Yes,On foot,47,156,69,120,19.1,No
+1223,Rural,Day school,4,15,Female,3,Secondary,Yes,On foot,49,159,668,115,19.4,No
+1224,Rural,Day school,4,15,Female,3,Secondary,Yes,On foot,51,155,74,108,21.1,No
+1228,Rural,Day school,4,15,Female,3,Secondary,Yes,On foot,68,161,78,136,26,YES
+1234,Semi urban,Day school,4,14,Female,4,Secondary,Yes,By car,45,159,69,112,17.8,No
+2,Semi urban,Day school,1,13,Male,3,Secondary,0,On foot,52,140,73,135,26.5,YES
+3,Semi urban,Day school,3,14,Male,3,University,0,On foot,38,134,63,115,21.2,No
+16,Semi urban,Day school,4,17,Male,2,University,0,By car,66,165,81,129,24.3,No
+21,Semi urban,Day school,3,14,Male,2,University,0,On foot,44,156,64,126,18.0,No
+35,Semi urban,Day school,2,14,Male,2,Secondary,0,On foot,45,163,73,135,16.9,No
+37,Semi urban,Day school,3,13,Male,1,Secondary,0,By car,42,157,67,103,17.2,No
+45,Semi urban,Day school,2,13,Male,2,Secondary,0,On foot,38,145,69,90,17.9,No
+46,Semi urban,Day school,1,13,Male,2,Secondary,0,On foot,44,71,152,92,87.5,YES
+51,Semi urban,Day school,3,15,Male,3,University,0,On foot,58,156,72,121,23.8,YES
+55,Semi urban,Day school,1,13,Male,3,Primary,0,On foot,40,153,65,105,17.3,No
+56,Semi urban,Day school,3,14,Male,4,Secondary,0,On foot,55,163,70,142,20.7,No
+58,Semi urban,Day school,3,15,Male,2,University,0,On foot,59,162,72,125,22.4,No
+67,Rural,Bording,3,15,Male,2,Secondary,0,By bus,54,162,73,123,20.7,No
+68,Rural,Bording,3,17,Male,2,Primary,0,By bike,55,161,75,115,21.3,No
+83,Rural,Bording,3,12,Male,2,University,0,By bus,44,160,65,118,17.2,No
+84,Rural,Bording,3,14,Male,2,Primary,0,By car,56,161,76,113,21.6,YES
+86,Rural,Bording,4,17,Male,2,Secondary,0,By car,58,174,78,100,19.1,No
+92,Rural,Bording,3,17,Male,3,Secondary,0,On foot,59,171,74,114,20.2,No
+98,Rural,Bording,2,12,Male,2,University,0,On foot,40,145,65,108,19.1,No
+103,Rural,Bording,2,15,Male,2,Secondary,0,On foot,49,154,68,182,20.5,No
+105,Rural,Bording,2,13,Male,3,Primary,0,On foot,42,148,68,103,19.3,No
+106,Rural,Bording,2,14,Male,2,Secondary,0,On foot,38,146,65,105,17.6,No
+110,Rural,Bording,4,15,Male,2,University,0,On foot,39,146,69,95,18.4,No
+113,Rural,Bording,2,13,Male,2,Secondary,0,On foot,38,145,66,87,18.3,No
+114,Rural,Bording,5,17,Male,3,Secondary,0,On foot,52,175,72,144,16.9,YES
+116,Rural,Bording,1,13,Male,2,Secondary,0,On foot,35,141,62,119,17.6,No
+117,Rural,Bording,2,14,Male,3,Secondary,0,On foot,44,144,71,131,21.3,No
+128,Rural,Bording,1,12,Male,2,Secondary,0,On foot,29,136,58,86,15.9,No
+130,Rural,Bording,5,18,Male,2,Primary,0,On foot,60,167,76,127,21.5,No
+132,Rural,Day school,4,17,Male,3,Secondary,0,By bike,71,177,74,105,22.7,No
+134,Rural,Day school,4,18,Male,1,Secondary,0,By car,61,167,67,100,21.9,No
+135,Rural,Day school,4,19,Male,3,Secondary,0,By bike,74,179,75,117,23.1,No
+140,Rural,Day school,4,17,Male,3,Secondary,0,By bike,64,164,75,114,23.8,No
+147,Rural,Day school,3,15,Male,2,Secondary,0,By bike,41,153,61,88,17.3,No
+149,Rural,Day school,2,12,Male,2,Secondary,0,By bus,49,150,64,102,21.8,YES
+152,Rural,Day school,4,17,Male,2,Secondary,0,By car,64,166,69,112,23.2,No
+159,Rural,Day school,1,12,Male,3,Secondary,0,By bus,43,146,69,96,19.9,No
+160,Rural,Day school,2,13,Male,2,University,0,By car,44,152,66,75,19.0,No
+168,Rural,Day school,2,13,Male,3,Secondary,0,On foot,43,146,67,112,20.2,No
+169,Rural,Day school,1,17,Male,2,University,0,By car,44,151,61,100,19.1,No
+170,Rural,Day school,2,15,Male,2,Secondary,0,By bus,54,170,68,145,18.7,No
+174,Rural,Day school,2,12,Male,1,Secondary,0,By bus,40,148,62,86,18.3,No
+177,Rural,Day school,3,14,Male,3,Secondary,0,By bus,59,165,70,94,21.7,No
+180,Rural,Day school,2,13,Male,1,Secondary,0,By bus,40,150,62,97,17.8,No
+181,Rural,Day school,2,15,Male,2,Secondary,0,By car,50,164,65,143,18.6,No
+182,Rural,Day school,1,13,Male,2,Secondary,0,On foot,39,145,63,88,18.5,No
+183,Rural,Day school,1,12,Male,3,University,0,By bike,46,151,67,107,20.2,No
+210,Semi urban,Bording school,4,15,Male,2,University,0,By car,54,175,75,121,17.7,No
+211,Semi urban,Bording school,2,13,Male,3,University,0,On foot,41,160,64,107,16.1,No
+217,Semi urban,Bording school,7,18,Male,1,Secondary,0,By car,67,174,83,137,22.1,No
+218,Semi urban,Bording school,7,19,Male,3,University,0,By car,53,157,73,121,21.4,No
+236,Semi urban,Bording school,2,12,Male,2,University,0,By car,30,145,61,107,14.4,YES
+239,Semi urban,Bording school,4,13,Male,4,Primary,0,By car,49,161,70,119,19.1,No
+242,Semi urban,Bording school,3,13,Male,3,University,0,On foot,39,158,59,106,15.5,No
+248,Semi urban,Bording school,2,13,Male,3,University,0,On foot,50,164,71,118,18.6,No
+265,Semi urban,Day school,4,16,Male,2,Primary,0,On foot,55,157,78,122,22.4,No
+268,Semi urban,Day school,4,15,Male,3,University,0,On foot,52,171,69,105,17.9,No
+270,Semi urban,Day school,4,14,Male,2,Secondary,0,On foot,52,158,71,137,21.0,No
+274,Semi urban,Day school,2,14,Male,1,Secondary,0,On foot,63,165,77,117,23.0,No
+279,Semi urban,Day school,2,13,Male,2,Primary,0,On foot,59,170,69,134,20.3,No
+282,Semi urban,Day school,1,14,Male,3,University,0,On foot,41,158,62,184,16.2,No
+303,Rural,Day school,4,15,Male,2,Secondary,0,On foot,49,161,87,109,18.7,No
+310,Rural,Day school,4,15,Male,3,University,0,On foot,48,161,85,101,18.6,No
+315,Rural,Day school,4,14,Male,2,Primary,0,On foot,56,158,81,129,22.4,No
+317,Rural,Day school,2,13,Male,1,Secondary,0,By car,48,161,86,100,18.3,No
+321,Rural,Day school,4,14,Male,2,Secondary,0,On foot,36,145,91,105,17.1,No
+324,Rural,Day school,4,15,Male,2,Secondary,0,On foot,53,161,88,104,20.4,No
+328,Rural,Day school,2,14,Male,3,University,0,By car,40,152,94,102,17.5,No
+332,Rural,Day school,4,15,Male,4,University,0,On foot,50,164,87,130,18.6,No
+333,Rural,Day school,2,12,Male,2,Primary,0,On foot,41,145,90,111,19.5,No
+335,Rural,Day school,2,14,Male,2,Secondary,0,On foot,43,153,94,101,18.3,No
+339,Rural,Day school,2,13,Male,2,University,0,On foot,35,142,95,101,17.1,No
+351,Rural,Day school,1,12,Male,3,Secondary,0,On foot,32,135,63,94,17.3,No
+353,Rural,Day school,1,12,Male,3,University,0,On foot,44,152,66,97,18.8,No
+362,Rural,Day school,6,17,Male,4,Primary,0,On foot,58,163,71,102,21.7,No
+363,Rural,Day school,6,17,Male,3,University,0,On foot,59,167,72,121,21.1,No
+364,Rural,Day school,6,19,Male,4,University,0,On foot,59,161,75,118,22.6,No
+365,Rural,Day school,6,19,Male,2,Primary,0,On foot,60,168,72,117,21.2,No
+391,Semi urban,Day school,5,18,Male,4,Secondary,0,On foot,61,171,75,127,20.9,No
+396,Semi urban,Day school,4,14,Male,3,Secondary,0,On foot,56,168,73,122,19.9,No
+397,Semi urban,Day school,4,16,Male,3,Primary,0,On foot,45,159,64,123,17.8,No
+398,Semi urban,Day school,4,15,Male,2,Secondary,0,On foot,53,170,65,113,18.5,No
+402,Semi urban,Day school,4,15,Male,2,Secondary,0,On foot,51,160,69,146,20.0,No
+405,Semi urban,Day school,4,14,Male,3,Secondary,0,On foot,53,160,75,121,20.7,No
+407,Semi urban,Day school,4,15,Male,2,University,0,On foot,56,168,71,137,19.7,No
+408,Semi urban,Day school,4,16,Male,4,Secondary,0,On foot,53,165,69,120,19.5,No
+412,Semi urban,Day school,5,18,Male,3,Secondary,0,On foot,75,170,81,132,26.0,YES
+413,Semi urban,Day school,4,13,Male,3,University,0,On foot,37,146,62,125,17.4,No
+414,Semi urban,Day school,6,19,Male,3,Primary,0,On foot,65,177,57,139,20.7,No
+415,Semi urban,Day school,4,15,Male,1,University,0,By car,44,162,64,105,16.8,No
+418,Semi urban,Day school,4,17,Male,3,University,0,On foot,71,178,78,139,22.4,No
+421,Semi urban,Day school,3,14,Male,2,University,0,On foot,76,169,92,135,26.4,YES
+422,Semi urban,Day school,3,15,Male,3,University,0,On foot,45,156,65,105,18.7,No
+522,Rural,Day school,3,13,Male,2,Secondary,0,On foot,38,148,62,101,17.5,No
+524,Rural,Day school,2,13,Male,3,University,0,On foot,38,149,59,109,17.2,No
+525,Rural,Day school,2,13,Male,2,University,0,By car,40,159,61,117,15.9,No
+526,Rural,Day school,3,13,Male,2,Secondary,0,By car,48,151,69,130,21.2,No
+533,Rural,Day school,3,13,Male,3,University,0,On foot,51,160,76,115,19.9,No
+535,Rural,Day school,3,14,Male,1,Secondary,0,By bike,69,168,77,140,24.6,No
+536,Rural,Day school,3,12,Male,2,Secondary,0,By car,49,159,66,115,19.2,No
+537,Rural,Day school,3,14,Male,3,Secondary,0,On foot,48,159,71,115,19.1,No
+539,Rural,Day school,3,14,Male,2,University,0,By car,43,151,65,131,19.0,No
+540,Rural,Day school,3,14,Male,2,University,0,By bike,43,154,63,112,18.0,No
+541,Rural,Day school,2,12,Male,4,University,0,On foot,47,149,69,118,21.1,YES
+546,Rural,Day school,3,13,Male,3,Primary,0,On foot,44,158,66,113,17.5,No
+560,Rural,Day school,2,14,Male,4,Secondary,0,On foot,52,165,83,128,19.2,No
+562,Rural,Day school,2,13,Male,4,University,0,On foot,38,147,68,105,17.5,No
+563,Rural,Day school,1,11,Male,2,University,0,On foot,36,143,62,106,17.5,No
+568,Rural,Day school,1,12,Male,2,University,0,By bike,37,147,68,115,17.3,No
+569,Rural,Day school,4,16,Male,2,University,0,By car,53,163,69,102,19.8,No
+570,Rural,Day school,4,15,Male,3,University,0,On foot,58,176,89,123,18.7,No
+572,Rural,Day school,3,13,Male,3,University,0,On foot,48,162,68,99,18.3,No
+573,Rural,Day school,2,12,Male,3,University,0,By bike,40,147,73,115,18.7,No
+574,Rural,Day school,4,14,Male,4,Secondary,0,On foot,41,149,62,107,18.5,No
+576,Rural,Day school,4,17,Male,4,Secondary,0,On foot,69,171,84,116,23.7,No
+579,Rural,Day school,4,14,Male,2,Secondary,0,By bus,59,166,73,128,21.3,No
+587,Semi urban,Day school,4,15,Male,3,Secondary,0,On foot,64,170,77,128,22.1,No
+597,Semi urban,Day school,4,14,Male,2,University,0,By car,50,161,72,125,19.4,No
+609,Semi urban,Day school,4,13,Male,3,Never,0,On foot,35,150,64,106,15.7,No
+632,Semi urban,Day school,4,15,Male,2,Secondary,0,By car,35,146,64,105,16.6,No
+634,Semi urban,Day school,4,15,Male,2,University,0,By car,83,169,95,107,29.2,YES
+636,Semi urban,Day school,4,14,Male,2,University,0,By car,53,167,72,110,18.9,No
+666,Semi urban,Day school,4,16,Male,1,Secondary,0,On foot,69,171,78,130,23.4,No
+686,Semi urban,Day school,6,16,Male,2,Primary,0,By car,61,156,77,99,25.1,YES
+687,Semi urban,Day school,6,17,Male,3,University,0,By car,72,173,76,102,24.1,No
+691,Semi urban,Day school,6,18,Male,4,Primary,0,By car,64,158,76,142,25.6,YES
+697,Semi urban,Day school,6,17,Male,1,Secondary,0,By car,76,182,79,147,22.9,No
+698,Semi urban,Day school,6,18,Male,3,Secondary,0,By bike,74,181,78,144,22.6,No
+701,Semi urban,Day school,6,18,Male,4,Primary,0,By car,65,174,78,111,21.5,No
+704,Semi urban,Day school,6,18,Male,3,Secondary,0,By car,57,172,66,96,19.1,No
+705,Semi urban,Day school,6,17,Male,2,Secondary,0,By car,64,168,74,151,22.7,No
+706,Semi urban,Day school,4,15,Male,2,Never,0,By car,57,170,72,126,19.7,No
+722,Semi urban,Day school,4,14,Male,3,Never,0,On foot,46,165,64,105,16.9,No
+725,Semi urban,Day school,4,14,Male,2,Secondary,0,By car,56,165,74,124,20.6,No
+727,Semi urban,Day school,4,14,Male,3,Never,0,By car,49,160,73,95,19.1,No
+740,Semi urban,Day school,4,15,Male,3,University,0,By car,70,182,83,130,21.1,No
+741,Semi urban,Day school,4,15,Male,2,Primary,0,On foot,69,177,77,141,22.0,No
+742,Semi urban,Day school,4,15,Male,2,Never,0,By car,66,173,72,140,22.1,No
+744,Semi urban,Day school,4,15,Male,2,University,0,By car,56,171,69,116,19.2,No
+745,Semi urban,Day school,4,16,Male,3,Secondary,0,By bus,45,169,63,115,15.8,YES
+756,Semi urban,Day school,4,14,Male,3,Secondary,0,By car,51,147,71,107,23.6,No
+765,Semi urban,Day school,4,15,Male,3,University,0,By car,49,166,72,113,17.8,No
+839,Rural,Bording school,7,19,Male,2,University,0,On foot,74,169,78,64,25.7,YES
+840,Semi urban,Day school,6,16,Male,1,University,0,By car,60,177,75,126,19.1,No
+842,Semi urban,Day school,4,16,Male,2,Primary,0,By car,52,160,70,128,20.3,No
+846,Semi urban,Day school,6,15,Male,1,Secondary,0,On foot,60,175,74,132,19.7,No
+852,Semi urban,Day school,6,19,Male,2,Secondary,0,On foot,59,170,71,119,20.3,No
+856,Rural,Bording school,2,13,Male,1,Primary,0,On foot,34,146,59,86,16.0,No
+862,Semi urban,Day school,4,17,Male,3,University,0,On foot,57,161,73,132,21.8,No
+868,Rural,Bording school,7,19,Male,2,University,0,By car,61,176,74,126,19.5,No
+869,Rural,Bording school,7,19,Male,1,University,0,By car,60,163,71,98,22.6,No
+870,Semi urban,Day school,6,17,Male,2,University,0,By car,47,160,69,130,18.5,No
+871,Rural,Bording school,5,16,Male,3,Secondary,0,On foot,58,172,75,99,19.6,No
+872,Rural,Bording school,4,15,Male,2,Primary,0,On foot,57,164,71,105,21.2,No
+895,Rural,Bording school,5,16,Male,2,Secondary,0,On foot,50,159,64,92,19.8,No
+898,Rural,Bording school,4,14,Male,3,University,0,On foot,57,164,72,104,21.2,No
+908,Semi urban,Day school,4,14,Male,1,Primary,0,On foot,45,173,69,159,15.0,YES
+912,Semi urban,Day school,4,16,Male,2,Secondary,0,On foot,43,158,68,106,17.3,No
+913,Semi urban,Day school,6,18,Male,1,University,0,On foot,50,168,69,121,17.7,No
+922,Rural,Bording school,5,17,Male,3,University,0,On foot,61,174,71,119,20.1,No
+925,Rural,Bording school,4,14,Male,2,University,0,On foot,54,161,69,94,20.6,No
+957,Rural,Bording school,4,15,Male,2,University,0,On foot,67,160,77,112,26.2,YES
+959,Semi urban,Day school,6,16,Male,2,University,0,On foot,66,181,75,124,20.0,No
+967,Rural,Bording school,4,17,Male,3,University,0,On foot,54,165,70,120,19.8,No
+969,Semi urban,Day school,6,16,Male,2,University,0,By car,58,162,80,170,22.0,No
+974,Semi urban,Day school,4,18,Male,2,Secondary,0,On foot,61,172,76,102,20.5,No
+975,Rural,Bording school,7,17,Male,2,University,0,By car,67,166,77,104,24.1,No
+977,Semi urban,Day school,4,15,Male,2,Secondary,0,On foot,53,173,73,113,17.6,No
+987,Rural,Bording school,2,15,Male,2,Secondary,0,On foot,48,158,69,96,19.2,No
+992,Semi urban,Day school,4,16,Male,2,University,0,On foot,55,166,72,101,20.0,No
+994,Rural,Bording school,7,18,Male,2,University,0,On foot,71,180,77,105,21.9,No
+997,Semi urban,Day school,4,15,Male,3,Secondary,0,On foot,44,160,71,98,17.1,No
+1000,Rural,Bording school,7,19,Male,2,University,0,By car,75,189,73,104,21.0,No
+1014,Semi urban,Day school,6,16,Male,2,Primary,0,By car,61,156,77,99,25.1,YES
+1015,Semi urban,Day school,6,17,Male,3,University,0,By car,72,173,76,102,24.1,No
+1019,Semi urban,Day school,6,18,Male,4,Primary,0,By car,64,158,76,142,25.6,YES
+1025,Semi urban,Day school,6,17,Male,1,Secondary,0,By car,76,182,79,147,22.9,No
+1026,Semi urban,Day school,6,18,Male,3,Secondary,0,By bike,74,181,78,144,22.6,No
+1040,Semi urban,Day school,3,16,Male,2,Secondary,0,On foot,54,166,68,98,19.6,No
+1041,Semi urban,Day school,3,13,Male,2,University,0,On foot,48,170,63,107,16.6,No
+1044,Semi urban,Day school,4,15,Male,4,University,0,By car,58,173,69,106,19.4,No
+1046,Semi urban,Day school,4,13,Male,2,University,0,On foot,53,165,71,123,19.3,No
+1047,Semi urban,Day school,5,14,Male,2,Secondary,0,On foot,68,175,77,104,22.2,No
+1050,Semi urban,Day school,5,19,Male,2,University,0,By car,66,166,71,165,24.0,No
+1051,Semi urban,Day school,5,19,Male,1,University,0,On foot,64,168,74,109,22.5,No
+1052,Semi urban,Day school,6,19,Male,2,University,0,On foot,69,183,70,125,20.6,No
+1059,Semi urban,Day school,5,15,Male,2,Secondary,0,By car,52,172,62,96,17.6,No
+1060,Semi urban,Day school,5,17,Male,2,University,0,By car,52,165,65,83,19.1,No
+1062,Semi urban,Day school,5,15,Male,3,University,0,By bike,55,168,69,114,19.3,No
+1063,Semi urban,Day school,5,16,Male,2,University,0,By bike,63,172,70,98,21.1,No
+1064,Semi urban,Day school,5,16,Male,2,University,0,On foot,52,160,72,108,20.3,No
+1082,Semi urban,Day school,5,15,Male,1,Secondary,0,On foot,62,169,71,136,21.5,No
+1083,Semi urban,Day school,5,16,Male,2,University,0,By car,63,185,68,115,18.4,No
+1084,Semi urban,Day school,5,16,Male,2,Secondary,0,On foot,83,188,79,124,23.3,No
+1087,Semi urban,Day school,5,15,Male,2,Secondary,0,By bike,49,160,65,96,19.1,No
+1089,Semi urban,Day school,5,17,Male,1,University,0,By car,64,172,74,109,21.5,No
+1090,Semi urban,Day school,5,16,Male,2,University,0,By car,59,169,68,89,20.5,No
+1091,Semi urban,Day school,5,16,Male,3,University,0,By bus,57,169,70,130,20.0,No
+1092,Semi urban,Day school,5,17,Male,2,University,0,On foot,68,169,73,107,23.6,No
+1093,Semi urban,Day school,5,17,Male,2,University,0,On foot,73,186,72,119,21.0,No
+1094,Semi urban,Day school,5,17,Male,2,University,0,By car,73,165,74,118,26.6,YES
+1097,Semi urban,Day school,5,18,Male,2,University,0,By car,42,169,77,117,14.5,YES
+1105,Semi urban,Day school,6,19,Male,3,Secondary,0,On foot,70,179,81,123,21.7,No
+1109,Semi urban,Day school,6,19,Male,2,Primary,0,On foot,51,164,73,128,19.1,No
+1110,Semi urban,Day school,5,16,Male,2,Secondary,0,By car,65,178,87,116,20.5,No
+1112,Semi urban,Day school,6,18,Male,4,Primary,0,By car,65,174,78,111,21.5,No
+1115,Semi urban,Day school,6,18,Male,3,Secondary,0,By car,57,172,66,96,19.1,No
+1116,Semi urban,Day school,6,17,Male,2,Secondary,0,By car,64,168,74,151,22.7,No
+1117,Semi urban,Day school,4,15,Male,2,Never,0,By car,57,170,72,126,19.7,No
+1128,Semi urban,Day school,6,16,Male,3,Secondary,0,By car,57,165,69,133,20.8,No
+1129,Semi urban,Day school,3,15,Male,2,University,0,By car,50,160,67,126,19.5,No
+1132,Semi urban,Day school,5,17,Male,1,Secondary,0,By car,62,165,71,112,22.8,No
+1151,Semi urban,Day school,4,14,Male,3,Never,0,On foot,46,165,64,105,16.9,No
+1154,Semi urban,Day school,4,14,Male,2,Secondary,0,By car,56,165,74,124,20.6,No
+1156,Semi urban,Day school,4,14,Male,3,Never,0,By car,49,160,73,95,19.1,No
+1168,Semi urban,Day school,4,15,Male,3,University,0,By car,70,182,83,130,21.1,No
+1169,Semi urban,Day school,4,15,Male,2,Primary,0,On foot,69,177,77,141,22.0,No
+1170,Semi urban,Day school,4,15,Male,2,Never,0,By car,66,173,72,140,22.1,No
+1172,Semi urban,Day school,4,15,Male,2,University,0,By car,56,171,69,116,19.2,No
+1174,Semi urban,Day school,4,16,Male,3,Secondary,0,By bus,45,169,63,115,15.8,YES
+1187,Semi urban,Day school,4,14,Male,3,Secondary,0,By car,51,147,71,107,23.6,No
+1197,Semi urban,Day school,4,15,Male,3,University,0,By car,49,166,72,113,17.8,No
+1199,Rural,Day school,4,16,Male,3,Secondary,0,On foot,58,167,76,133,20.8,No
+1201,Rural,Day school,4,18,Male,2,Secondary,0,By car,68,183,76,126,20.3,No
+1202,Rural,Day school,3,14,Male,4,University,0,On foot,36,152,62,99,15.8,YES
+1204,Rural,Day school,3,14,Male,2,University,0,On foot,33,145,66,86,15.6,YES
+1205,Rural,Day school,3,16,Male,4,University,0,On foot,47,160,75,105,18.2,No
+1208,Rural,Day school,4,16,Male,4,Secondary,0,On foot,60,183,75,112,17.9,No
+1226,Rural,Day school,4,15,Male,2,Primary,0,On foot,57,157,79,109,23.3,YES
+1227,Rural,Day school,3,15,Male,2,Secondary,0,On foot,53,166,69,143,19.3,No
+1232,Semi urban,Day school,5,16,Male,3,University,0,On foot,46,149,65,109,20.7,No
+1235,Semi urban,Day school,3,13,Male,2,University,0,By car,41,153,68,107,17.5,No
+9,Semi urban,Day school,2,14,Male,2,Secondary,Yes,On foot,43,155,67,116,17.9,No
+10,Semi urban,Day school,4,16,Male,2,Secondary,Yes,On foot,68,170,76,117,23.5,No
+11,Semi urban,Day school,4,18,Male,3,Secondary,Yes,By car,69,182,76,132,20.8,No
+15,Semi urban,Day school,1,13,Male,3,Primary,Yes,On foot,42,159,64,100,16.6,No
+23,Semi urban,Day school,3,13,Male,3,Primary,Yes,On foot,42,146,64,136,19.6,No
+26,Semi urban,Day school,2,14,Male,3,Secondary,Yes,On foot,43,141,66,122,21.4,No
+28,Semi urban,Day school,3,16,Male,4,Primary,Yes,On foot,60,154,79,108,25.1,YES
+30,Semi urban,Day school,3,17,Male,2,University,Yes,On foot,61,170,76,126,21.1,No
+44,Semi urban,Day school,2,13,Male,3,University,Yes,On foot,46,169,80,118,16.1,No
+54,Semi urban,Day school,4,18,Male,1,University,Yes,On foot,71,180,77,116,21.8,No
+57,Semi urban,Day school,1,11,Male,3,University,Yes,On foot,49,151,73,115,21.4,No
+60,Semi urban,Day school,4,16,Male,2,Never,Yes,On foot,48,169,75,114,16.9,No
+66,Rural,Bording,3,13,Male,1,University,Yes,By car,51,166,86,125,18.6,No
+69,Rural,Bording,1,14,Male,2,Secondary,Yes,By car,47,153,74,114,20.0,No
+70,Rural,Bording,2,13,Male,3,Secondary,Yes,On foot,39,152,76,99,17.1,No
+71,Rural,Bording,3,17,Male,2,Secondary,Yes,By bus,40,156,65,118,16.6,YES
+72,Rural,Bording,3,15,Male,2,Secondary,Yes,On foot,50,167,73,115,18.1,No
+73,Rural,Bording,2,13,Male,2,Secondary,Yes,On foot,33,142,63,82,16.6,No
+74,Rural,Bording,3,13,Male,2,University,Yes,On foot,36,159,62,86,14.0,YES
+76,Rural,Bording,3,16,Male,3,Secondary,Yes,By car,47,165,69,88,17.3,No
+77,Rural,Bording,3,17,Male,1,Secondary,Yes,On foot,41,150,69,130,18.2,No
+80,Rural,Bording,3,14,Male,2,Secondary,Yes,On foot,38,146,65,104,17.7,No
+81,Rural,Bording,1,13,Male,3,University,Yes,On foot,40,140,69,107,20.4,No
+88,Rural,Bording,1,11,Male,2,University,Yes,By car,40,145,69,111,19.0,No
+89,Rural,Bording,2,12,Male,2,Secondary,Yes,On foot,35,138,66,104,18.3,No
+91,Rural,Bording,2,12,Male,2,University,Yes,On foot,32,141,66,89,15.9,No
+95,Rural,Bording,1,14,Male,2,Never,Yes,On foot,31,145,66,107,14.9,YES
+96,Rural,Bording,1,13,Male,1,Secondary,Yes,On foot,32,146,64,97,15.1,No
+97,Rural,Bording,3,14,Male,1,Secondary,Yes,On foot,52,154,81,103,21.8,No
+100,Rural,Bording,4,17,Male,3,University,Yes,By car,70,172,83,124,23.8,No
+101,Rural,Bording,2,14,Male,3,Secondary,Yes,On foot,49,157,71,108,19.8,No
+102,Rural,Bording,2,12,Male,1,Secondary,Yes,On foot,28,137,60,99,14.8,YES
+104,Rural,Bording,1,12,Male,2,Secondary,Yes,By car,49,146,78,109,23.1,YES
+108,Rural,Bording,2,14,Male,2,University,Yes,By car,48,158,69,101,19.0,No
+109,Rural,Bording,4,15,Male,2,Secondary,Yes,On foot,47,156,69,100,19.3,No
+111,Rural,Bording,2,16,Male,2,Primary,Yes,By car,53,161,78,88,20.4,No
+115,Rural,Bording,1,13,Male,3,University,Yes,By car,47,154,70,118,20.0,No
+118,Rural,Bording,2,14,Male,3,Secondary,Yes,On foot,38,147,68,107,17.5,No
+119,Rural,Bording,2,14,Male,3,Secondary,Yes,On foot,54,163,72,137,20.4,No
+120,Rural,Bording,3,18,Male,3,Secondary,Yes,On foot,65,174,78,133,21.6,No
+121,Rural,Bording,3,19,Male,2,Primary,Yes,On foot,64,170,75,131,22.2,No
+122,Rural,Bording,2,14,Male,2,Secondary,Yes,On foot,34,142,62,86,16.8,No
+124,Rural,Bording,3,13,Male,4,University,Yes,On foot,54,163,70,124,20.2,No
+125,Rural,Bording,1,12,Male,2,Secondary,Yes,By bike,37,142,71,116,18.5,No
+126,Rural,Bording,3,13,Male,3,University,Yes,By bus,36,146,65,112,16.8,No
+131,Rural,Day school,4,14,Male,2,Primary,Yes,By car,77,178,74,99,24.1,No
+133,Rural,Day school,3,17,Male,3,Secondary,Yes,By bus,64,166,72,120,23.0,No
+136,Rural,Day school,4,19,Male,3,Secondary,Yes,By bike,58,170,70,131,19.9,No
+138,Rural,Day school,6,19,Male,2,University,Yes,By bus,79,178,79,125,24.9,No
+139,Rural,Day school,4,15,Male,3,University,Yes,By car,67,169,77,119,23.3,YES
+143,Rural,Day school,1,12,Male,2,Secondary,Yes,By car,48,146,69,95,22.5,YES
+148,Rural,Day school,1,13,Male,2,University,Yes,By bus,43,153,67,134,18.2,No
+150,Rural,Day school,2,17,Male,1,Primary,Yes,By bike,46,55,68,113,150.4,YES
+158,Rural,Day school,4,17,Male,4,Primary,Yes,By bus,55,159,70,105,21.8,No
+163,Rural,Day school,2,13,Male,3,Primary,Yes,By bus,38,149,64,93,17.1,No
+171,Rural,Day school,1,13,Male,3,Secondary,Yes,By car,58,165,68,130,21.3,No
+172,Rural,Day school,2,13,Male,2,University,Yes,By bus,47,158,66,116,18.8,No
+173,Rural,Day school,1,12,Male,3,Secondary,Yes,By bike,39,145,61,99,18.5,No
+175,Rural,Day school,2,12,Male,2,University,Yes,By bus,40,151,59,83,17.3,No
+176,Rural,Day school,2,14,Male,3,University,Yes,By bus,40,144,67,80,19.3,No
+186,Rural,Day school,2,13,Male,3,University,Yes,By bus,39,146,64,88,18.1,No
+188,Rural,Day school,2,17,Male,1,Secondary,Yes,By car,59,168,71,93,20.9,No
+189,Rural,Day school,2,13,Male,2,Primary,Yes,By car,53,162,72,115,20.2,No
+195,Rural,Day school,3,14,Male,4,Primary,Yes,By bus,54,150,71,114,24.0,No
+196,Rural,Day school,3,16,Male,1,Primary,Yes,By car,56,155,73,119,23.3,No
+199,Semi urban,Bording school,3,15,Male,3,University,Yes,On foot,60,162,76,124,22.9,YES
+213,Semi urban,Bording school,5,15,Male,2,Secondary,Yes,On foot,57,166,80,123,20.8,No
+216,Semi urban,Bording school,7,19,Male,4,University,Yes,By car,56,179,75,129,17.5,No
+219,Semi urban,Bording school,7,18,Male,2,University,Yes,By car,55,167,84,123,19.8,No
+221,Semi urban,Bording school,3,13,Male,3,University,Yes,On foot,41,146,68,102,19.3,No
+228,Semi urban,Bording school,3,14,Male,3,Secondary,Yes,On foot,52,162,72,115,19.6,No
+229,Semi urban,Bording school,2,12,Male,3,University,Yes,By car,39,153,60,100,16.8,No
+233,Semi urban,Bording school,2,14,Male,2,University,Yes,By car,35,164,69,111,13.2,YES
+234,Semi urban,Bording school,3,14,Male,2,University,Yes,On foot,42,162,62,106,15.9,YES
+240,Semi urban,Bording school,4,15,Male,2,University,Yes,On foot,55,171,68,100,18.9,No
+257,Semi urban,Day school,4,15,Male,1,University,Yes,By car,39,155,67,98,16.3,No
+259,Semi urban,Day school,4,16,Male,2,Secondary,Yes,By car,56,168,76,#NULL!,19.8,No
+261,Semi urban,Day school,4,14,Male,1,Secondary,Yes,On foot,51,160,68,121,20.0,No
+271,Semi urban,Day school,4,15,Male,2,Primary,Yes,On foot,38,157,62,70,15.3,YES
+272,Semi urban,Day school,4,18,Male,1,Secondary,Yes,On foot,70,179,78,137,21.8,No
+298,Semi urban,Day school,4,15,Male,1,University,Yes,By car,56,151,76,106,24.7,YES
+312,Rural,Day school,2,13,Male,2,University,Yes,By car,39,144,88,105,18.7,No
+322,Rural,Day school,2,13,Male,3,University,Yes,By car,52,157,85,109,21.0,No
+327,Rural,Day school,4,15,Male,2,University,Yes,By car,40,147,89,95,18.6,No
+329,Rural,Day school,2,12,Male,3,University,Yes,On foot,50,154,90,110,21.0,YES
+330,Rural,Day school,2,14,Male,2,University,Yes,On foot,34,145,64,97,16.0,YES
+331,Rural,Day school,5,18,Male,4,Secondary,Yes,On foot,57,162,74,112,21.9,No
+334,Rural,Day school,4,14,Male,4,University,Yes,On foot,59,164,83,113,22.1,No
+352,Rural,Day school,1,12,Male,3,University,Yes,By car,30,138,59,97,16.0,No
+354,Rural,Day school,6,18,Male,3,Secondary,Yes,On foot,54,161,77,115,20.8,No
+356,Rural,Day school,1,12,Male,2,Secondary,Yes,On foot,33,135,58,108,18.2,No
+357,Rural,Day school,1,13,Male,2,Secondary,Yes,On foot,41,151,64,108,18.2,No
+358,Rural,Day school,1,13,Male,3,Secondary,Yes,On foot,49,156,72,110,20.3,No
+359,Rural,Day school,1,12,Male,2,University,Yes,On foot,43,140,72,92,21.7,YES
+360,Rural,Day school,6,18,Male,2,Primary,Yes,On foot,55,162,76,112,20.8,No
+361,Rural,Day school,6,19,Male,3,Secondary,Yes,On foot,70,173,78,121,23.5,No
+375,Semi urban,Day school,4,15,Male,3,Primary,Yes,On foot,44,155,69,126,18.3,No
+409,Semi urban,Day school,4,17,Male,3,Secondary,Yes,On foot,49,161,68,118,18.8,No
+410,Semi urban,Day school,4,14,Male,2,Secondary,Yes,On foot,39,145,65,88,18.6,No
+411,Semi urban,Day school,4,15,Male,1,Secondary,Yes,On foot,51,155,70,119,21.4,No
+520,Rural,Day school,3,14,Male,2,Secondary,Yes,By bus,44,150,71,100,19.6,No
+523,Rural,Day school,2,13,Male,3,University,Yes,By bus,40,153,65,123,17.2,No
+534,Rural,Day school,3,15,Male,2,Secondary,Yes,By bike,47,154,67,104,19.7,No
+558,Rural,Day school,2,12,Male,4,Secondary,Yes,On foot,60,148,65,136,27.2,YES
+559,Rural,Day school,2,13,Male,2,University,Yes,By car,46,155,63,112,18.9,No
+565,Rural,Day school,1,12,Male,3,University,Yes,On foot,53,169,77,135,18.7,No
+566,Rural,Day school,2,13,Male,2,Primary,Yes,On foot,39,146,66,104,18.3,No
+567,Rural,Day school,4,17,Male,4,Primary,Yes,On foot,76,176,84,137,24.5,YES
+571,Rural,Day school,4,14,Male,3,Secondary,Yes,By car,39,147,62,96,18.0,No
+595,Semi urban,Day school,2,11,Male,2,University,Yes,On foot,71,148,57,116,32.3,YES
+596,Semi urban,Day school,4,14,Male,3,University,Yes,On foot,64,175,80,153,21.0,No
+598,Semi urban,Day school,4,14,Male,2,University,Yes,By car,68,166,81,139,24.6,No
+599,Semi urban,Day school,4,14,Male,1,University,Yes,By car,62,172,75,132,20.9,No
+608,Semi urban,Day school,4,18,Male,3,Secondary,Yes,By car,59,173,79,111,19.7,No
+610,Semi urban,Day school,4,15,Male,3,University,Yes,By car,62,175,79,118,20.1,No
+611,Semi urban,Day school,4,14,Male,3,University,Yes,By car,40,149,68,114,18.1,No
+612,Semi urban,Day school,4,15,Male,3,Secondary,Yes,By car,63,176,75,122,20.2,No
+615,Semi urban,Day school,4,16,Male,2,University,Yes,On foot,65,175,75,103,21.3,No
+616,Semi urban,Day school,4,15,Male,3,Primary,Yes,On foot,50,151,74,117,21.8,No
+623,Semi urban,Day school,4,14,Male,2,Primary,Yes,By car,44,147,66,100,20.4,No
+643,Semi urban,Day school,4,14,Male,3,University,Yes,By car,71,183,86,126,21.1,No
+672,Semi urban,Day school,4,15,Male,3,University,Yes,By car,57,177,69,111,18.2,No
+688,Semi urban,Day school,6,17,Male,2,Secondary,Yes,On foot,70,179,76,122,21.8,No
+695,Semi urban,Day school,6,17,Male,2,Secondary,Yes,By bike,65,176,77,101,21.0,No
+723,Semi urban,Day school,4,12,Male,2,Secondary,Yes,By car,45,168,69,119,15.9,No
+728,Semi urban,Day school,4,15,Male,3,University,Yes,By car,52,164,71,102,19.3,No
+729,Semi urban,Day school,4,15,Male,2,Secondary,Yes,By car,26,154,67,95,11.0,YES
+730,Semi urban,Day school,4,16,Male,2,Never,Yes,By car,55,170,71,113,19.0,No
+731,Semi urban,Day school,4,17,Male,4,Secondary,Yes,By car,63,157,78,129,25.6,YES
+738,Semi urban,Day school,4,15,Male,3,University,Yes,By car,63,178,79,102,19.9,No
+743,Semi urban,Day school,4,14,Male,2,Never,Yes,By car,59,160,79,119,23.0,No
+747,Semi urban,Day school,4,14,Male,3,Secondary,Yes,On foot,51,157,71,104,20.7,No
+834,Rural,Bording school,2,12,Male,3,University,Yes,On foot,46,156,66,96,18.9,No
+848,Semi urban,Day school,3,14,Male,3,Primary,Yes,On foot,46,154,70,110,19.4,No
+851,Semi urban,Day school,6,18,Male,2,Primary,Yes,By bike,86,179,88,144,26.7,YES
+853,Rural,Bording school,5,16,Male,3,Never,Yes,On foot,59,154,75,99,24.9,YES
+854,Rural,Bording school,4,15,Male,4,Secondary,Yes,On foot,60,166,28,100,21.8,No
+863,Rural,Bording school,4,15,Male,2,Secondary,Yes,On foot,44,160,64,103,17.2,No
+874,Rural,Bording school,4,14,Male,3,University,Yes,On foot,52,167,70,87,18.6,No
+881,Semi urban,Day school,4,18,Male,3,University,Yes,On foot,56,176,71,137,18.2,No
+883,Semi urban,Day school,6,16,Male,2,Secondary,Yes,On foot,68,169,82,123,23.9,YES
+891,Rural,Bording school,7,18,Male,2,University,Yes,On foot,58,169,70,122,20.3,No
+894,Semi urban,Day school,3,16,Male,4,Secondary,Yes,On foot,7,165,70,146,2.6,YES
+902,Rural,Bording school,2,12,Male,2,University,Yes,On foot,39,146,25,100,18.3,No
+906,Rural,Bording school,3,16,Male,3,Secondary,Yes,On foot,65,173,74,102,21.7,No
+917,Rural,Bording school,7,18,Male,2,University,Yes,On foot,75,187,82,118,21.3,No
+924,Rural,Bording school,4,16,Male,1,Primary,Yes,On foot,64,166,72,96,23.2,No
+931,Rural,Bording school,7,19,Male,2,Secondary,Yes,On foot,59,171,71,116,20.0,No
+935,Rural,Bording school,4,14,Male,2,University,Yes,On foot,52,164,66,91,19.3,No
+936,Semi urban,Day school,5,14,Male,2,Secondary,Yes,On foot,34,145,69,109,16.1,No
+940,Semi urban,Day school,6,17,Male,3,University,Yes,By bike,61,176,77,130,19.8,No
+943,Semi urban,Day school,6,16,Male,3,Secondary,Yes,On foot,55,176,72,161,17.9,No
+960,Rural,Bording school,5,15,Male,2,University,Yes,On foot,58,158,72,112,23.2,YES
+971,Semi urban,Day school,6,19,Male,2,Secondary,Yes,On foot,58,176,75,114,18.6,No
+981,Rural,Bording school,7,18,Male,4,Secondary,Yes,On foot,47,165,66,97,17.3,YES
+984,Rural,Bording school,7,15,Male,3,University,Yes,On foot,51,172,70,89,17.2,No
+998,Semi urban,Day school,6,17,Male,3,Secondary,Yes,By car,68,182,76,137,20.5,No
+1003,Semi urban,Day school,4,15,Male,4,Primary,Yes,On foot,50,169,70,113,17.4,No
+1016,Semi urban,Day school,6,17,Male,2,Secondary,Yes,On foot,70,179,76,122,21.8,No
+1023,Semi urban,Day school,6,17,Male,2,Secondary,Yes,By bike,65,176,77,101,21.0,No
+1042,Semi urban,Day school,3,16,Male,2,Secondary,Yes,On foot,62,165,78,139,22.8,No
+1043,Semi urban,Day school,4,16,Male,2,Secondary,Yes,By car,55,165,74,106,20.2,No
+1048,Semi urban,Day school,1,15,Male,2,Secondary,Yes,On foot,69,165,79,127,25.3,YES
+1053,Semi urban,Day school,5,19,Male,2,University,Yes,By car,65,165,70,141,23.9,No
+1061,Semi urban,Day school,5,16,Male,3,Secondary,Yes,By car,60,167,72,108,21.3,No
+1081,Semi urban,Day school,5,16,Male,2,Secondary,Yes,By car,49,167,66,112,17.6,No
+1088,Semi urban,Day school,5,18,Male,2,Secondary,Yes,By bike,83,176,825,118,26.6,YES
+1095,Semi urban,Day school,5,18,Male,4,University,Yes,By bike,84,177,79,86,26.7,YES
+1098,Semi urban,Day school,5,16,Male,3,University,Yes,On foot,62,181,70,111,18.8,No
+1100,Semi urban,Day school,6,16,Male,3,University,Yes,By car,64,183,69,118,19.2,No
+1104,Semi urban,Day school,3,15,Male,4,Secondary,Yes,On foot,56,165,79,123,20.6,No
+1107,Semi urban,Day school,3,13,Male,2,Secondary,Yes,On foot,49,162,79,103,18.7,No
+1108,Semi urban,Day school,5,16,Male,2,Secondary,Yes,By car,53,175,79,100,17.3,No
+1134,Semi urban,Day school,3,12,Male,3,Secondary,Yes,On foot,45,155,70,110,18.7,No
+1137,Semi urban,Day school,3,16,Male,3,Secondary,Yes,On foot,60,165,71,110,22.0,No
+1152,Semi urban,Day school,4,12,Male,2,Secondary,Yes,By car,45,168,69,119,15.9,No
+1157,Semi urban,Day school,4,15,Male,3,University,Yes,By car,52,164,71,102,19.3,No
+1158,Semi urban,Day school,4,15,Male,2,Secondary,Yes,By car,26,154,67,95,11.0,YES
+1159,Semi urban,Day school,4,16,Male,2,Never,Yes,By car,55,170,71,113,19.0,No
+1160,Semi urban,Day school,4,17,Male,4,Secondary,Yes,By car,63,157,78,129,25.6,YES
+1167,Semi urban,Day school,4,15,Male,3,University,Yes,By car,63,178,79,102,19.9,No
+1171,Semi urban,Day school,4,14,Male,2,Never,Yes,By car,59,160,79,119,23.0,No
+1173,Semi urban,Day school,4,13,Male,1,University,Yes,By car,45,153,70,138,19.2,No
+1176,Semi urban,Day school,4,14,Male,3,Secondary,Yes,On foot,51,157,71,104,20.7,No
+1200,Rural,Day school,4,17,Male,2,Secondary,Yes,On foot,62,168,81,110,22.1,No
+1206,Rural,Day school,3,15,Male,2,University,Yes,By car,51,167,76,123,18.4,No
+1207,Rural,Day school,3,16,Male,1,University,Yes,On foot,54,172,75,123,18.3,No
+62,Semi urban,Day school,1,12,Male,2,Primary,,On foot,34,141,66,106,17.1,No
+157,Rural,Day school,7,15,Male,2,University,,By bike,46,156,63,112,18.7,No
+178,Rural,Day school,2,14,Female,3,,,By car,57,163,68,135,21.3,No
+187,Rural,Day school,2,16,Male,1,Secondary,,By car,54,158,70,106,21.6,No
+472,Rural,Bording school,4,15,Female,3,Secondary,,On foot,47,154,70,109,19.9,No
+619,Semi urban,Day school,4,14,Female,2,Secondary,,On foot,72,165,82,127,26.3,YES
